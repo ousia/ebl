@@ -7,28 +7,26 @@ Al barbudo loco le preocupa cada vez más una pregunta. No es otra que «¿cómo
 
 Para poder hablar de que existe una inteligencia artificial, es probable que tengamos que asimilar la facultad humana a la capacidad que ofrece la máquina. Aunque sólo sea conceptualmente.
 
-etimología
+## ¿Gran confusión?
 
-resolver problemas
+Una introducción a la inteligencia artificial parecía ser _El Futuro: la fusión del alma y la tecnología_, capítulo del programa _Redes 2.0_. Eduard Punset entrevista a [Raymond Kurzweil](http://www.kurzweilai.net/), especialista en inteligencia artificial. La entrevista puede verse en [este enlace](http://www.rtve.es/alacarta/videos/redes/redes-inteligencia-artificial/198212/).
 
-máquina
+Creo que la entrevista pivota sobre tres cuestiones diferentes:
 
-redes neuronales
+* La inteligencia artificial.
 
-autonomía
+* La mecanización robótica de la vida humana.
 
-sólo puede ser libre lo que puedes controlar
+* La realidad virtual.
 
-<https://www.bmvi.de/bericht-ethikkommission‎>
-<https://www.bmvi.de/report-ethicscommission>
+De hecho, la inteligencia ni se trata en la entrevista, se da por supuesta como una obviedad. Y con el debido respeto —no puedo reprimir el comentario—, con una ingenuidad estrictamente infinita.
 
-red de ordenadores que empieza a comunicarse de un modo que no entendemos
-Facebook financia esa investigación
-No podemos saber qué controla qué si no lo entendemos
+En la entrevista se habla de los robots microscópicos —_nanobots_— que antes de cincuenta años, vagarían por nuestro cuerpo curándolo y manteniéndolo sano. Debe ser que soy muy poco crédulo, pero habría dos cuestiones.
 
-los fallos de programación son cósmicos
+* Los robots no nos vigilarían, por supuesto. Ni nos causarían daño alguno si lo ordenasen terceras personas.
 
-compresión limitada (o irresponsable) de Zuckenberg de la inteligencia artificial Elon Musk
+* Los robots funcionarían siempre bien. Uno de los ejemplos aducidos es que matasen las células cancerígenas en cuanto hubiesen mutado.
 
-[_OpenAI_](https://openai.com)
-[_Neuralink_](https://neuralink.com/)
+    Me temo que es mucho pedir. Si el propio cuerpo tiene ataques autoinmunes, una máquina programada —sin comprensión real de problema, sólo con órdenes dadas— va a conseguir actuar correctamente la grandísima mayoría de casos.
+
+    Lo siento, pero a esta ingenuidad —no sé calificarla de otra manera—, sólo se puede agregrar: «seguro que sí, porque las mutaciones genéticas de cualquier signo no existen».
