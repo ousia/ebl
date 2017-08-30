@@ -1,6 +1,7 @@
 ---
 title: ¿Inteligencia artificial?
 layout: page
+permalink: /inteligencia-artificial/
 ---
 
 Al barbudo loco le preocupa cada vez más una pregunta. No es otra que «¿cómo podemos decir que las máquinas son inteligentes?». Esa pregunta  le lleva a otra más importante: «¿por qué decimos que las personas son inteligentes?».
@@ -40,4 +41,3 @@ La precisión es decisiva en este punto. La sensación es orgánica, porque nece
 La sensación es un modo de vida. Eso quiere decir que sólo un ser vivo capaz puede sentir. Una planta no puede ver, ni tampoco una máquina puede hacerlo. Sólo en sentido impropio, podemos decir que sienten. El problema de ese uso metafórico es que acabamos desdibujando el sentido propio. No es nada más y nada menos que al final no sabemos muy bien qué es realmente sentir.
 
 Probalemente el fondo de la confusión a la que aludo, se pueda resumir en la frase siguiente: la vida no es un conjunto de funcionalidades. Las capacidades de un ser vivo no son mecánicas, porque no son externas a él, son facultades propias. Se pueden llegar a simular funcionalmente, con mayor o menor fortuna. Sin embargo, mecánica y vida son dos cosas diversas. La irreductibildad biológica es que la vida no se apaga, se acaba para siempre.
-

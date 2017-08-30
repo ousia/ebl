@@ -1,6 +1,7 @@
 ---
 title: ¿Quién es?
 layout: page
+permalink: /quien-es/
 ---
 
 El barbudo loco es un tipo raro. Probablemente es el tipo más raro que te podrás encontrar en tu vida.
