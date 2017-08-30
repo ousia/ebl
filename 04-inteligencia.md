@@ -15,9 +15,7 @@ Una introducción a la inteligencia artificial parecía ser _El futuro: la fusi�
 Creo que la entrevista mezcla tres cuestiones diferentes:
 
 * La inteligencia artificial.
-
 * La mecanización robótica de la vida humana.
-
 * La realidad virtual.
 
 De hecho, la inteligencia ni se trata en la entrevista, se da por supuesta como una obviedad. Y con el debido respeto —no puedo reprimir el comentario—, también con una ingenuidad estrictamente infinita.
