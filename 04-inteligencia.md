@@ -52,17 +52,19 @@ Es interesante el desarrollo de la palabra «automatismo». La forma de la palab
 
 En autómata, mecanismo, máquina o ingenio, existe originarialmente una connotación que se nos puede pasar por alto. Lo que coloquialmente llamamos sacarse un final de la manga —poner un final inesperado— es en latín el _deus ex machina_ (ἀπὸ μηχανῆς θεός). Es debido a que los dioses salían de aparatos en las representaciones teatrales y terminaban la obra del modo en que los autores quisieran. El ingenio permite engañar, más hacer parecer lo que no puede ser —no defraudar—. Autómata es en sus comienzos «marioneta».
 
-En el fondo, creo que esta digresión acerca de los orígenes de las palabras muestra que eran modos de maravillar a personas diminutas y pobres incautos. Podían simular aconteceres que realmente no se daban. Tanto de sucesos, como de modos de actuar de seres no animados. Mucho me temo que
+En el fondo, creo que esta digresión acerca de los orígenes de las palabras muestra que eran modos de maravillar a personas diminutas y pobres incautos. Podían simular aconteceres que realmente no se daban. Tanto de sucesos, como de modos de actuar de seres no animados. Me temo que el asombro ingenuo no ha cesado. A demasiada gente se les llena la boca hablando de «inteligencia artificial», antes de siquiera poder cuestionar si es realmente una simulación. El ansia por unos resultados que muestran fundamentalmente una mayor velocidad de cálculo nos provoca que se ignore cualquier posible diferencia relevante.
 
 
 <!--
-## Máquina y mecánico
+## El horizonte de la máquina
 
 medio de trabajo físico, mover cosas pesadas
 
 que sea más capaz no quiere decir que sea más inteligente, ni siquiera inteligente
 
 capacidad de resolución no es necesariamente inteligencia, sobre todo si es mecánica
+
+las máquinas son tontas
 
 ## ¿Similitud o asimilación?
 
@@ -113,4 +115,15 @@ compresión limitada (o irresponsable) de Zuckenberg de la inteligencia artifici
 
 [_OpenAI_](https://openai.com)
 [_Neuralink_](https://neuralink.com/)
+
+
+La potenza del pensiero capacidad, no velocidad de cálculo.
+
+ganar a la máquina, contar las cartas
+
+miguel ángel es un fracasado
+
+cálculo de probabilidades (probar todas)
+
+juego comprando todos los números
 -->
