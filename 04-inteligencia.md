@@ -39,3 +39,65 @@ La precisión es decisiva en este punto. La sensación es orgánica, porque nece
 La sensación es un modo de vida. Eso quiere decir que sólo un ser vivo capaz puede sentir. Una planta no puede ver, ni tampoco una máquina puede hacerlo. Sólo en sentido impropio, podemos decir que sienten. El problema de ese uso metafórico es que acabamos desdibujando el sentido propio. No es nada más y nada menos que al final no sabemos muy bien qué es realmente sentir.
 
 Probalemente el fondo de la confusión a la que aludo, se pueda resumir en la frase siguiente: la vida no es un conjunto de funcionalidades. Las capacidades de un ser vivo no son mecánicas, porque no son externas a él, son facultades propias. Se pueden llegar a simular funcionalmente, con mayor o menor fortuna. Sin embargo, mecánica y vida son dos cosas diversas. La irreductibildad biológica es que la vida no se apaga, se acaba para siempre.
+
+## ¿Son sólo palabras?
+
+La inteligencia artificial tiene un campo semántico curioso. No es sólo que hasta este siglo hablemos de inteligencia para aplicarla a otras cosas que a las personas. Me refiero al adjetivo con el que presuntamente inauguraríamos el nuevo ámbito de inteligencia no humana. A juzgar por lo que muchos afirman, debería decir de inteligencia suprahumana.
+
+Máquinas, mecanismos, ingenios, automatismos, robots, artificios son los diferentes nombres que refieren a esas realidades. Casi todas comparten el mismo campo semántico en griego y latín. La excepción es «robot» —del checo _robota_— que es el trabajo debido al señor feudal.
+<!--
+
+que sea más capaz no quiere decir que sea más inteligente, ni siquiera inteligente
+
+capacidad de resolución no es necesariamente inteligencia, sobre todo si es mecánica
+
+## ¿Similitud o asimilación?
+
+Del mismo modo que intentamos entender la vida desde la funcionalidad de un mecanismo más o menos complejo, explicamos sin más
+
+Un mecanismo o una máquina son ser un conjunto de funcionalidades
+la vida no es una funcionalidad
+
+La vida cuando se apaga, se acaba para siempre.
+
+
+No basta con comprender la biología, hay que
+controlarla
+
+
+inteligencia artificial, realidad virtual y conexión directa
+robots nanoscópicos
+
+[_El cerebro sofisticado_](https://www.eduardpunset.es/23361/general/el-cerebro-sofisticado):
+
+> Cree la mayoría que el lenguaje más común es el inglés o el chino, cuando hoy, en plena era de la información y la comunicación, el más universal de todos es el sistema binario.
+##
+
+etimología
+
+resolver problemas
+
+máquina
+
+redes neuronales
+
+autonomía
+
+sólo puede ser libre lo que puedes controlar
+
+<https://www.bmvi.de/bericht-ethikkommission‎>
+<https://www.bmvi.de/report-ethicscommission>
+
+si la inteligencia es una forma de vida, es imposible que una máquina sea inteligente.
+
+red de ordenadores que empieza a comunicarse de un modo que no entendemos
+Facebook financia esa investigación
+No podemos saber qué controla qué si no lo entendemos
+
+los fallos de programación son cósmicos
+
+compresión limitada (o irresponsable) de Zuckenberg de la inteligencia artificial Elon Musk
+
+[_OpenAI_](https://openai.com)
+[_Neuralink_](https://neuralink.com/)
+-->
