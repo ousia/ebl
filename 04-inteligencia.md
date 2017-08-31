@@ -44,9 +44,12 @@ Probalemente el fondo de la confusión a la que aludo, se pueda resumir en la fr
 
 La inteligencia artificial tiene un campo semántico curioso. No es sólo que hasta este siglo hablemos de inteligencia para aplicarla a otras cosas que a las personas. Me refiero al adjetivo con el que presuntamente inauguraríamos el nuevo ámbito de inteligencia no humana. A juzgar por lo que muchos afirman, debería decir de inteligencia suprahumana.
 
-Máquinas, mecanismos, ingenios, automatismos, robots, artificios son los diferentes nombres que refieren a esas realidades. Casi todas comparten el mismo campo semántico en griego y latín. La excepción es «robot» —del checo _robota_— que es el trabajo debido al señor feudal.
+Máquinas, mecanismos, ingenios, automatismos, robots, artificios son los diferentes nombres que refieren a esas realidades. Casi todas comparten el mismo campo semántico en griego y latín. La excepción es «robot» —del checo [_robota_](https://es.wikipedia.org/wiki/Robot#Etimología)— que es el trabajo gratuito debido al señor feudal. Sólo esa palabra se refiere a la tarea que la máquina acomete. El resto de denominaciones indican cuál es la realidad de la cosa.
+
+[Μηχανή](http://www.perseus.tufts.edu/hopper/morph?l=%CE%BC%CE%B7%CF%87%CE%B1%CE%BD%CE%AE&la=greek) da en latín [_machina_](http://www.perseus.tufts.edu/hopper/morph?l=machina&la=latin), que son en español «mecanismo» y «máquina». De ahí vienen mecánico y maquinal. «Autómata» proviene de αὐτοματόν, que es tanto lo que se mueve por sí como el ingenio**. [_Ingenium_](), nuestro «ingenio», es tanto la capacidad como sus obras. De hecho, [_engine_](https://www.merriam-webster.com/dictionary/engine) es «motor», e [_ingenuity_](https://www.merriam-webster.com/dictionary/ingenuity) es «ingenio», «inteligencia» («ingenuidad» es [_naivety_](https://www.merriam-webster.com/dictionary/naivety)).
 
 <!--
+medio de trabajo físico, mover cosas pesadas
 
 que sea más capaz no quiere decir que sea más inteligente, ni siquiera inteligente
 
