@@ -45,6 +45,7 @@ Probalemente el fondo de la confusión a la que aludo, se pueda resumir en la fr
 La inteligencia artificial tiene un campo semántico curioso. No es sólo que hasta este siglo hablemos de inteligencia para aplicarla a otras cosas que a las personas. Me refiero al adjetivo con el que presuntamente inauguraríamos el nuevo ámbito de inteligencia no humana. A juzgar por lo que muchos afirman, debería decir de inteligencia suprahumana.
 
 Máquinas, mecanismos, ingenios, automatismos, robots, artificios son los diferentes nombres que refieren a esas realidades. Casi todas comparten el mismo campo semántico en griego y latín. La excepción es «robot» —del checo _robota_— que es el trabajo debido al señor feudal.
+
 <!--
 
 que sea más capaz no quiere decir que sea más inteligente, ni siquiera inteligente
