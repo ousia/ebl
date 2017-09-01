@@ -42,7 +42,7 @@ Probalemente el fondo de la confusión a la que aludo, se pueda resumir en la fr
 
 ## ¿Son sólo palabras?
 
-La inteligencia artificial tiene un campo semántico curioso. No es sólo que hasta este siglo hablemos de inteligencia para aplicarla a otras cosas que a las personas. Me refiero al adjetivo con el que presuntamente inauguraríamos el nuevo ámbito de inteligencia no humana. A juzgar por lo que muchos afirman, debería decir de inteligencia suprahumana.
+La inteligencia artificial tiene un campo semántico curioso. No es sólo que hasta este siglo no hablemos de inteligencia para aplicarla a otras cosas que a las personas. Me refiero al adjetivo con el que presuntamente inauguraríamos el nuevo ámbito de inteligencia no humana. A juzgar por lo que muchos afirman, debería decir de inteligencia suprahumana.
 
 Máquinas, mecanismos, ingenios, automatismos, robots, artificios son los diferentes nombres que refieren a esas realidades. Casi todas comparten el mismo campo semántico en griego y latín. La excepción es «robot» —del checo [_robota_](https://es.wikipedia.org/wiki/Robot#Etimología)— que es el trabajo gratuito debido al señor feudal. Sólo esa palabra se refiere a la tarea que la máquina acomete. El resto de denominaciones indican cuál es la realidad de la cosa.
 
