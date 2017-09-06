@@ -74,11 +74,22 @@ Además del movimiento de masas, creo que es importante una dimensión de la má
 
 La distinción entre una máquina y una herramienta se ve más claro las máquinas manuales. Una batidora eléctrica es una máquina, si no lo es es un utensilio. Un destornillador o un taladro estarían en análoga situación, pueden ser herramientas o máquinas. En último caso, no es la electricidad lo que los convierte en máquinas. Es la generación de una fuerza —entendida como capacidad física de trabajo— que no es la misma que la que aplica quien la usa. Ejemplos son las batidoras mecánicas o los centrifugadores de verduras. Por supuesto, se trata de mecanismos muy básicos. Que las herramientas nos permitan aplicar mejor la fuerza y tener que usar menos, no las convierten en máquinas.
 
+## El desarrollo de las máquinas
+
+Con la aplicación la energía, la generación de fuerza es mucho mayor que en los mecanismos más simples. El uso de energia facilita la perforación, tanto de una pared, como de un pozo —tanto de agua, como de petróleo—. Con la aparición de la electrónica, las máquinas pueden automatizarse. La automatización de una máquina es supone que pueda desarrollar su tarea de modo independiente, sin más intervención humana que el encendido y el apagado. Así funcionan las máquinas lavadora o lavaplatos. Con la aparición de la electrónica digital, comienzan a aparecer máquinas con circuitos integrados programados, como las calculadoras. Con el desarrollo electrónico digital adecuado aparecerá el ordenador, que propiamente puede ser considerado la máquina lógica universal.
+
+
+
+un ordenador máquina universal
+calculadora binaria
+
+informática como programable ¿como saber?
+
 ## ¿Máquinas inteligentes?
 
-Hemos visto que
+¿Puede sentir una máquina? Alguien podría pretender responder que todavía no, pero que llegará un día en que las máquinas desarrollarán sentimientos. Para evitar la incomprensión, me refiero a sensaciones. Es claro que ya ha llegado el momento de desarrollo sensorial de las máquinas. Por muy sensacionales que puedan ser los avances, las máquinas no tienen sensaciones. No es una cuestión de evolución, una máquina no tiene sensaciones porque no puede tenerlas.
 
-¿Puede sentir una máquina? Alguien podría pretender responder que todavía no, pero que llegará un día en que las máquinas desarrollarán sentimientos. Para evitar la incomprensión, me refiero a sensaciones. Es claro que ya ha llegado el momento de desarrollo sensacional ---o sensorial--- de las máquinas. Y las máquinas no tienen sensaciones.
+Una cuestión distinta es que podemos hacer que una máquina funcione como si tuviese sensaciones
 
 funcionar
 work
@@ -86,11 +97,14 @@ trabajan
 
 ### El ejemplo de la fuerza bruta
 
-Imagínate que tienes que salir de viaje en diez días y que al ir a buscar tu maleta al trastero, te das cuenta de que tiene un candado. El candado es de combinación de tres cifras. Quizá la recuerdes, quizá no. En el segundo caso, tienes del 000 al 999 y la fuerza bruta.
+Imagínate que tienes que salir de viaje en diez días y que al ir a buscar tu maleta al trastero, te das cuenta de que tiene un candado puesto. El candado es de combinación de tres cifras. Quizá la recuerdes, quizá no. En el segundo caso, tienes del 000 al 999 y la fuerza bruta.
 
-En informática, no serían dos cosas distintas. La lógica es algo puro y por «fuerza bruta» no entiende lo que el resto: coger un martillo y romper el maldito candado. En este caso, lo que se llama informáticamente un «ataque de fuerza bruta» es probar todas las combinaciones del 000 al 999. Por supuesto, parando cuando se abriese el candado. En este caso, haría falta sólo un poco de paciencia. También puedes ver que ese tipo de candado es inútil si te quedas sin maleta o la dejas de tener a la vista.
+En informática, no serían dos cosas distintas. Lógicos y lógicas son personas puramente racionales, que entienden por «fuerza bruta» no lo que el resto del mundo: coger un martillo y romper el maldito candado. En este caso, lo que se llama informáticamente un «ataque de fuerza bruta» sería probar todas las combinaciones del 000 al 999. Por supuesto, parando cuando se abriese el candado. En este caso, haría falta sólo un poco de paciencia. También puedes ver que ese tipo de candado es inútil si te quedas sin maleta o cuando dejas de tenerla a la vista.
 
 <!--
+
+no distinguir entre capacidad real y simulación funcional
+
 pensamiento es proceso de información
 
 digestión es proceso de alimento
@@ -265,6 +279,10 @@ processing information: general inteligence
 una suerte de superinteligencia, debemos tener la seguridad que podemos convivir con esa entidad superior.
 
 el futuro de la humanidad, no como especie, sino como mundo
+
+Es curioso, porque manejando cada vez más máquinas (y durante más tiempo), las personas nos volvemos progresivamente más incapaces.
+
+No sabemos distinguir la simulación funcional, que puede llegar a ser más efectiva en muchos ámbitos, de la capacidad real.
 
 -->
 
