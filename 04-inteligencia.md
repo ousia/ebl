@@ -20,7 +20,11 @@ Creo que la entrevista mezcla tres cuestiones diferentes:
 
 De hecho, la inteligencia ni se trata en la entrevista, se da por supuesta como una obviedad. Y con el debido respeto —no puedo reprimir el comentario—, también con una ingenuidad estrictamente infinita.
 
-En la entrevista se habla de los robots microscópicos —_nanobots_— que antes de cincuenta años, vagarían por nuestro cuerpo curándolo y manteniéndolo sano. Debe ser que soy muy poco crédulo, pero habría dos cuestiones.
+En la entrevista se habla de los robots microscópicos[^microscopio] —_nanobots_— que antes de cincuenta años, vagarían por nuestro cuerpo curándolo y manteniéndolo sano. Debe ser que soy muy poco crédulo, pero habría dos cuestiones.
+
+[^microscopio]: Son microscópicos, no «nanoscópicos». Fundamentalmente porque el «nanoscopio» no existe.
+
+    «Microscópico» es aquello que sólo puede observarse con el microscopio.
 
 * Los robots no nos vigilarían, por supuesto. Ni nos causarían daño alguno si lo ordenasen terceras personas.
 
@@ -54,7 +58,7 @@ En autómata, mecanismo, máquina o ingenio, existe originarialmente una connota
 
 En el fondo, creo que esta digresión acerca de los orígenes de las palabras muestra que eran modos de maravillar a personas diminutas y pobres incautos. Podían simular aconteceres que realmente no se daban. Tanto de sucesos, como de modos de actuar de seres no animados. Me temo que el asombro ingenuo no ha cesado. Se nos puede llenar la boca hablando de la «inteligencia artificial», antes de siquiera poder saber si se trata realmente de una simulación. El ansia por unos resultados que muestran fundamentalmente una mayor velocidad de cálculo provoca que ignoremos cualquier posible diferencia relevante.
 
-
+<!--
 ## El horizonte de la máquina
 
 Uno de los primeros usos de las máquinas era el trabajo físico. Algo tan sencillo como mover o arrojar cosas pesadas. Además de como armas, podían servir para la construcción. Gracias
@@ -69,7 +73,7 @@ las máquinas son tontas
 
 ##
 
-<!--
+
 ## ¿Similitud o asimilación?
 
 Del mismo modo que intentamos entender la vida desde la funcionalidad de un mecanismo más o menos complejo, explicamos sin más
@@ -233,3 +237,5 @@ una suerte de superinteligencia, debemos tener la seguridad que podemos convivir
 el futuro de la humanidad, no como especie, sino como mundo
 
 -->
+
+### Notas
