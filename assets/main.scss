@@ -3,14 +3,9 @@
 
 @import "{{ site.theme }}";
 
-$base-font-family: "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif !default;
-
 $brand-color: #306400;
 $brand-darker-color: #1c3c00;
 
-/* body {
-  font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
-} */
 
 .footer-col-wrapper a {
   color: $brand-darker-color;
