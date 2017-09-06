@@ -72,12 +72,23 @@ Uno de los primeros usos de las máquinas era el trabajo físico. Algo tan senci
 
 Además del movimiento de masas, creo que es importante una dimensión de la máquina: no es un simple utensilio, no es una herramienta. No es que no sea útil, sino que no es una mayor precisión de la mano. Un cuchillo —o un destornillador, hoy en día— permiten aplicar la fuerza humana de un modo específico. Ambas herramientas no hacen nada que no haga una mano humana, sólo cambian el modo en que esa mano lo hace. Una máquina realiza el trabajo que no hace un cuerpo humano. Al menos, multiplica su fuerza y su capacidad.
 
+La distinción entre una máquina y una herramienta se ve más claro las máquinas manuales. Una batidora eléctrica es una máquina, si no lo es es un utensilio. Un destornillador o un taladro estarían en análoga situación, pueden ser herramientas o máquinas. En último caso, no es la electricidad lo que los convierte en máquinas. Es la generación de una fuerza —entendida como capacidad física de trabajo— que no es la misma que la que aplica quien la usa. Ejemplos son las batidoras mecánicas o los centrifugadores de verduras. Por supuesto, se trata de mecanismos muy básicos. Que las herramientas nos permitan aplicar mejor la fuerza y tener que usar menos, no las convierten en máquinas.
+
+## ¿Máquinas inteligentes?
+
+Hemos visto que
+
+¿Puede sentir una máquina? Alguien podría pretender responder que todavía no, pero que llegará un día en que las máquinas desarrollarán sentimientos. Para evitar la incomprensión, me refiero a sensaciones. Es claro que ya ha llegado el momento de desarrollo sensacional ---o sensorial--- de las máquinas. Y las máquinas no tienen sensaciones.
+
+funcionar
+work
+trabajan
 
 ### El ejemplo de la fuerza bruta
 
 Imagínate que tienes que salir de viaje en diez días y que al ir a buscar tu maleta al trastero, te das cuenta de que tiene un candado. El candado es de combinación de tres cifras. Quizá la recuerdes, quizá no. En el segundo caso, tienes del 000 al 999 y la fuerza bruta.
 
-En informática, no serían dos cosas distintas. La lógica es algo puro y por «fuerza bruta» no les viene a la cabeza lo que al resto: coger un martillo y romper el maldito candado. En este caso, lo que se llama informáticamente un «ataque de fuerza bruta» es probar las combinaciones del 000 al 999. En este caso, haría falta sólo un poco de paciencia. Y se ve que el candado es inútil si te sustraen o te distraen de la visión de tu maleta.
+En informática, no serían dos cosas distintas. La lógica es algo puro y por «fuerza bruta» no entiende lo que el resto: coger un martillo y romper el maldito candado. En este caso, lo que se llama informáticamente un «ataque de fuerza bruta» es probar todas las combinaciones del 000 al 999. Por supuesto, parando cuando se abriese el candado. En este caso, haría falta sólo un poco de paciencia. También puedes ver que ese tipo de candado es inútil si te quedas sin maleta o la dejas de tener a la vista.
 
 <!--
 pensamiento es proceso de información
