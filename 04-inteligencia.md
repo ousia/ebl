@@ -55,8 +55,9 @@ En autómata, mecanismo, máquina o ingenio, existe originarialmente una connota
 En el fondo, creo que esta digresión acerca de los orígenes de las palabras muestra que eran modos de maravillar a personas diminutas y pobres incautos. Podían simular aconteceres que realmente no se daban. Tanto de sucesos, como de modos de actuar de seres no animados. Me temo que el asombro ingenuo no ha cesado. Se nos puede llenar la boca hablando de la «inteligencia artificial», antes de siquiera poder saber si se trata realmente de una simulación. El ansia por unos resultados que muestran fundamentalmente una mayor velocidad de cálculo provoca que ignoremos cualquier posible diferencia relevante.
 
 
-<!--
 ## El horizonte de la máquina
+
+Uno de los primeros usos de las máquinas era el trabajo físico. Algo tan sencillo como mover o arrojar cosas pesadas. Además de como armas, podían servir para la construcción. Gracias
 
 medio de trabajo físico, mover cosas pesadas
 
@@ -66,6 +67,9 @@ capacidad de resolución no es necesariamente inteligencia, sobre todo si es mec
 
 las máquinas son tontas
 
+##
+
+<!--
 ## ¿Similitud o asimilación?
 
 Del mismo modo que intentamos entender la vida desde la funcionalidad de un mecanismo más o menos complejo, explicamos sin más
@@ -126,4 +130,106 @@ miguel ángel es un fracasado
 cálculo de probabilidades (probar todas)
 
 juego comprando todos los números
+abrir una caja con todas las combinaciones
+
+no podemos entregar nuestras decisiones a máquinas
+
+¿ayuda? ¿de qué tipo? no rendición o entrega
+
+decisiones de personas que afectan a personas
+
+black box
+
+math washing
+
+go board
+
+reading with understanding?
+
+decision: a or b?
+
+machines: they will read or they will be fed with data of what humanity has ever written?
+
+probabilidad
+
+¿mejores decisiones? i hope so
+
+fin de la privacidad (https://medium.com/message/e0a1acea89bd)
+
+si no lo controlas no te sirve de nada
+
+utopías que no tienen lugar
+
+no te sirve que tu máquina sea más capaz que tú si no la puedes controlar
+
+subservient position alan turing
+
+problem: more intelligent than your own species (than you can use)
+
+you end having blind decisions (not accountable)
+
+el problema de los gorilas
+
+we aren’t creating a smater species than our own (there is no species at all).
+
+we cannot do anything about creating the new species (keep doing AI)
+
+simplification is one of the best toys
+
+better AI catastrophe
+
+purpose put into the machine is the purpose we really desire norbert weiner
+
+rey midas
+
+diverging from the true objectives of the human race
+
+una máquina no razona, calcula posibilidades
+
+human--compatible AI
+
+three laws:
+ purely altruistic robots (human values)
+ uncertain objectives (these values)
+ learn from observing (all) humans
+
+calcular no es razonar
+
+evitar la ambigüedad no es un valor
+
+we design laws for persons, not for machines
+
+predicción de preferencias: la vida humana es multiforme
+
+la heterodoxia: cada vida humana es distinta
+
+the real difficulty are us
+
+understand your nastiness (or allow some deviation)
+
+we have computational limitations (lisa loses)
+
+probable vs. provable: realidad frente a deseo
+
+una vida perfectamente calculable y calculada puede no ser una vida inteligente
+
+una vida robótica
+
+die andersdenkenden
+
+reglas: summum ius, summa iniuria
+
+tener que correr detrás de un bebé si estás totalmente postrado en una cama
+
+no es la maldad de un máquina, no es malevolencia
+no hay divergencia de fines, sino de acciones
+
+conscious machines, treat with disregard
+
+processing information: general inteligence
+
+una suerte de superinteligencia, debemos tener la seguridad que podemos convivir con esa entidad superior.
+
+el futuro de la humanidad, no como especie, sino como mundo
+
 -->
