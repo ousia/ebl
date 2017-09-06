@@ -28,7 +28,6 @@ code {
   margin-bottom: $spacing-unit / 4;
 } */
 
-.footnotes > ol > li > p + p {
-  padding-top: 0%;
-  margin-top: 0%;
-  }
+.footnotes > ol > li > p {
+  margin-botton: 2%;
+}
