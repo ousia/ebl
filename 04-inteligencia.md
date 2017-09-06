@@ -66,12 +66,23 @@ En autómata, mecanismo, máquina o ingenio, existe originarialmente una connota
 
 En el fondo, creo que esta digresión acerca de los orígenes de las palabras muestra que eran modos de maravillar a personas diminutas y pobres incautos. Podían simular aconteceres que realmente no se daban. Tanto de sucesos, como de modos de actuar de seres no animados. Me temo que el asombro ingenuo no ha cesado. Se nos puede llenar la boca hablando de la «inteligencia artificial», antes de siquiera poder saber si se trata realmente de una simulación. El ansia por unos resultados que muestran fundamentalmente una mayor velocidad de cálculo provoca que ignoremos cualquier posible diferencia relevante.
 
-<!--
 ## El horizonte de la máquina
 
-Uno de los primeros usos de las máquinas era el trabajo físico. Algo tan sencillo como mover o arrojar cosas pesadas. Además de como armas, podían servir para la construcción. Gracias
+Uno de los primeros usos de las máquinas era el trabajo físico. Algo tan sencillo como mover o arrojar cosas pesadas. Además de como armas, podían servir para la construcción. Gracias a una mayor fuerza física, se pueden arrojar proyectiles con mayor masa o a mayor distancia. También se pueden mover piedras para construir todo tipo de edificios. Estas máquinas desarrollan trabajo potenciando la capacidad humana. Incluso la definición física de trabajo parece ser relativa al movimiento de cuerpos en distancias.
 
-medio de trabajo físico, mover cosas pesadas
+Además del movimiento de masas, creo que es importante una dimensión de la máquina: no es un simple utensilio, no es una herramienta. No es que no sea útil, sino que no es una mayor precisión de la mano. Un cuchillo —o un destornillador, hoy en día— permiten aplicar la fuerza humana de un modo específico. Ambas herramientas no hacen nada que no haga una mano humana, sólo cambian el modo en que esa mano lo hace. Una máquina realiza el trabajo que no hace un cuerpo humano. Al menos, multiplica su fuerza y su capacidad.
+
+
+### El ejemplo de la fuerza bruta
+
+Imagínate que tienes que salir de viaje en diez días y que al ir a buscar tu maleta al trastero, te das cuenta de que tiene un candado. El candado es de combinación de tres cifras. Quizá la recuerdes, quizá no. En el segundo caso, tienes del 000 al 999 y la fuerza bruta.
+
+En informática, no serían dos cosas distintas. La lógica es algo puro y por «fuerza bruta» no les viene a la cabeza lo que al resto: coger un martillo y romper el maldito candado. En este caso, lo que se llama informáticamente un «ataque de fuerza bruta» es probar las combinaciones del 000 al 999. En este caso, haría falta sólo un poco de paciencia. Y se ve que el candado es inútil si te sustraen o te distraen de la visión de tu maleta.
+
+<!--
+pensamiento es proceso de información
+
+digestión es proceso de alimento
 
 que sea más capaz no quiere decir que sea más inteligente, ni siquiera inteligente
 

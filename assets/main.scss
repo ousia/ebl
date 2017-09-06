@@ -7,6 +7,10 @@ $brand-color: #306400;
 $brand-darker-color: #1c3c00;
 
 
+h3#notas {
+  margin-top: $spacing-unit * 4;
+}
+
 .footer-col-wrapper a {
   color: $brand-darker-color;
 }
@@ -29,5 +33,5 @@ code {
 } */
 
 .footnotes > ol > li > p {
-  margin-botton: 2%;
+  margin-botton: 0%;
 }
