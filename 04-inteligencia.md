@@ -115,7 +115,7 @@ Las dos personas respondieron correctamente Chicago[^chicago-airports], pero la 
 
 Al tratar de explicar el fallo, los responsables de la máquina de IBM advirtieron de algo básico: en ningún lugar se menciona la limitación de que se trate de una ciudad estadounidense. Aunque es posible que no haya influido, la población estadounidense tiende a confundir la denominación del continente con la de su país. Incluso en la explicación del fallo, se aludió a que Toronto es el nombre de topónimos estadounidenses[^toronto-usa]. Otra causa del error podría haber sido que Toronto juega en la liga estadounidense de béisbol, así como algún otro equipo canadiense.
 
-[^toronto-usa]: Como se muestr en la lista de _Wikipedia_: <https://en.wikipedia.org/wiki/Toronto_(disambiguation)#United_States>.
+[^toronto-usa]: Como se muestra en la lista de _Wikipedia_: <https://en.wikipedia.org/wiki/Toronto_(disambiguation)#United_States>.
 
 Me temo que no se trata de explicar un fallo de categorización o análisis por parte de la máquina. El error es de expectativa humana. En todo caso, la expectativa de la respuesta era distinta de las posibilidades reales que puede dar una máquina. Por supuesto, puede considerarse un ejemplo de «estupidez artificial». Pero el ejemplo es inocuo, porque no tiene más trascendencia. Detectarlo en una máquina ejecutora —cuando por definición ya es demasiado tarde— es muy difícil que no sea un ejemplo de imbecilidad humana.
 
