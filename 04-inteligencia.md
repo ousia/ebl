@@ -115,13 +115,19 @@ Las dos personas respondieron correctamente Chicago[^chicago-airports], pero la 
 
 [^toronto-airports]: Desconozco qué persona y qué batalla debería dar esta respuesta por lógicamente válida.
 
-Al tratar de explicar el fallo, los responsables de la máquina de IBM advirtieron de algo básico: en ningún lugar se menciona la limitación de que se trate de una ciudad estadounidense. Aunque es posible que no haya influido, la población estadounidense tiende a confundir la denominación del continente con la de su país. Incluso en la explicación del fallo, se aludió a que Toronto es el nombre de topónimos estadounidenses[^toronto-usa]. Otra causa del error podría haber sido que Toronto
+Al tratar de explicar el fallo, los responsables de la máquina de IBM advirtieron de algo básico: en ningún lugar se menciona la limitación de que se trate de una ciudad estadounidense. Aunque es posible que no haya influido, la población estadounidense tiende a confundir la denominación del continente con la de su país. Incluso en la explicación del fallo, se aludió a que Toronto es el nombre de topónimos estadounidenses[^toronto-usa]. Otra causa del error podría haber sido que Toronto juega en la liga estadounidense de béisbol, así como algún otro equipo canadiense.
 
 [^toronto-usa]: Como se muestr en la lista de _Wikipedia_: <https://en.wikipedia.org/wiki/Toronto_(disambiguation)#United_States>.
 
-En todo caso, la expectativa de la respuesta era distinta de las posibilidades reales que puede dar una máquina. Por supuesto, puede considerarse un ejemplo de «estupidez artificial». Pero el ejemplo es inocuo, porque no tiene más trascendencia. Detectarlo en una máquina ejecutora —cuando por definición ya es demasiado tarde— es muy difícil que no sea un ejemplo de imbecilidad humana.
+Me temo que no se trata de explicar un fallo de categorización o análisis por parte de la máquina. El error es de expectativa humana. En todo caso, la expectativa de la respuesta era distinta de las posibilidades reales que puede dar una máquina. Por supuesto, puede considerarse un ejemplo de «estupidez artificial». Pero el ejemplo es inocuo, porque no tiene más trascendencia. Detectarlo en una máquina ejecutora —cuando por definición ya es demasiado tarde— es muy difícil que no sea un ejemplo de imbecilidad humana.
+
+La máquina de IBM podría considerarse —en palabras del director principal del proyecto, David Ferrucci—, «inteligencia artificial que entiende el mundo como las personas»[^natural-learning]. Pero el ejemplo es claro, una máquina no puede entender nada. Podrá organizar la información que analiza de modo que pueda asejemarse al modo en que lo hacemos los humanos. Funcionalmente, podría llegar a manejarla de modo análogo. Aunque tenga la _Wikipedia_ inglesa almacenada en memoria, literalmente no entiende ni una palabra de esa información.
+
+[^natural-learning]: “We build artificial intelligence that understands the world the way people do”, recogido en <https://www.elementalcognition.com/>.
 
 <!--
+
+
 
 no distinguir entre capacidad real y simulación funcional
 
