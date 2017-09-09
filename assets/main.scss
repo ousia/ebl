@@ -38,8 +38,9 @@ code {
 
 blockquote {
   color: $brand-darker-color;
-  border-left: 4px solid;
+  /* border-left: 4px solid; */
   padding-left: $spacing-unit / 2;
+  padding-right: $spacing-unit / 2;
   /* @include relative-font-size(1);
   letter-spacing: -1px;
   font-style: italic; */

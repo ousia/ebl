@@ -87,9 +87,7 @@ informática como programable ¿como saber?
 
 ## ¿Máquinas inteligentes?
 
-¿Puede sentir una máquina? Alguien podría pretender responder que todavía no, pero que llegará un día en que las máquinas desarrollarán sentimientos. Para evitar la incomprensión, me refiero a sensaciones. Es claro que ya ha llegado el momento de desarrollo sensorial de las máquinas. Por muy sensacionales que puedan ser los avances, las máquinas no tienen sensaciones. No es una cuestión de evolución, una máquina no tiene sensaciones porque no puede tenerlas.
-
-Una cuestión distinta es que podemos hacer que una máquina funcione como si tuviese sensaciones
+¿Puede sentir una máquina? Alguien podría pretender responder que todavía no, pero que llegará un día en que las máquinas desarrollarán sentimientos. Para evitar la incomprensión, me refiero a sensaciones. Es claro que ya ha llegado el momento de desarrollo sensorial de las máquinas. Por muy sensacionales que puedan ser los avances, las máquinas no tienen sensaciones. No es una cuestión de evolución, una máquina no tiene sensaciones porque no puede tenerlas. Cuestión distinta es que podemos hacer que una máquina funcione como si tuviese sensaciones.
 
 funcionar
 work
