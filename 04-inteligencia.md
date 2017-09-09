@@ -24,7 +24,7 @@ En la entrevista se habla de los robots microscópicos[^microscopio] —_nanobot
 
 [^microscopio]: Son microscópicos, no «nanoscópicos». Fundamentalmente porque el «nanoscopio» no existe.
 
-    «Microscópico» es aquello que sólo puede observarse con el microscopio.
+    «Microscópico» es aquello que sólo puede observarse un el microscopio.
 
 * Los robots no nos vigilarían, por supuesto. Ni nos causarían daño alguno si lo ordenasen terceras personas.
 
@@ -88,6 +88,8 @@ informática como programable ¿como saber?
 ## ¿Máquinas inteligentes?
 
 ¿Puede sentir una máquina? Alguien podría pretender responder que todavía no, pero que llegará un día en que las máquinas desarrollarán sentimientos. Para evitar la incomprensión, me refiero a sensaciones. Es claro que ya ha llegado el momento de desarrollo sensorial de las máquinas. Por muy sensacionales que puedan ser los avances, las máquinas no tienen sensaciones. No es una cuestión de evolución, una máquina no tiene sensaciones porque no puede tenerlas. Cuestión distinta es que podemos hacer que una máquina funcione como si tuviese sensaciones.
+
+Para poder ver la diferencia de realidades, es importante apreciar la diferencia de modos de ser. Una persona ---o, en general, cualquier animal--- vivimos sintiendo. Las sensaciones parten de una capacidad concreta, pero son parte de la vida. Podemos decir que son actividades, pero dentro de la gran «actividad» que es el propio vivir. Esa actividad omniabarcante es el propio ser vivo, que es también estar vivo. Estar vivo no es un modo entre otros de ser vivo, es sin más _ser viviente_.
 
 funcionar
 work
