@@ -101,7 +101,7 @@ Imagínate que tienes que salir de viaje en diez días y que al ir a buscar tu m
 
 En informática, no serían dos cosas distintas. Lógicos y lógicas son personas puramente racionales, que entienden por «fuerza bruta» no lo que el resto del mundo: coger un martillo y romper el maldito candado. En este caso, lo que se llama informáticamente un «ataque de fuerza bruta» sería probar todas las combinaciones del 000 al 999. Por supuesto, parando cuando se abriese el candado. En este caso, haría falta sólo un poco de paciencia. También puedes ver que ese tipo de candado es inútil si te quedas sin maleta o cuando dejas de tenerla a la vista.
 
-### Un ejemplo real
+### Un ejemplo real de respuesta
 
 Un ejemplo claro de que la capacidad de análisis de la inteligencia mecánica es ciego es la máquina _IBM Watson_. «Alimentada» con millones de datos —incluida la _Wikipedia_ completa en su versión inglesa—, la incluyeron brevemente como participante en _Jeopardy!_ un concurso estadounidense de televisión con preguntas de cultura general.
 
@@ -114,6 +114,10 @@ Las dos personas respondieron correctamente Chicago[^chicago-airports], pero la 
 [^chicago-airports]: El militar estadounidense es Edward O’Hare y la batalla es la de Midway.
 
 [^toronto-airports]: Desconozco qué persona y qué batalla debería dar esta respuesta por lógicamente válida.
+
+Al tratar de explicar el fallo, los responsables de la máquina de IBM advirtieron de algo básico: en ningún lugar se menciona la limitación de que se trate de una ciudad estadounidense. Aunque es posible que no haya influido, la población estadounidense tiende a confundir la denominación del continente con la de su país. Incluso en la explicación del fallo, se aludió a que Toronto es el nombre de topónimos estadounidenses[^toronto-usa]. Otra causa del error podría haber sido que Toronto
+
+[^toronto-usa]: Como se muestr en la lista de _Wikipedia_: <https://en.wikipedia.org/wiki/Toronto_(disambiguation)#United_States>.
 
 En todo caso, la expectativa de la respuesta era distinta de las posibilidades reales que puede dar una máquina. Por supuesto, puede considerarse un ejemplo de «estupidez artificial». Pero el ejemplo es inocuo, porque no tiene más trascendencia. Detectarlo en una máquina ejecutora —cuando por definición ya es demasiado tarde— es muy difícil que no sea un ejemplo de imbecilidad humana.
 
