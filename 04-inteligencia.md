@@ -78,7 +78,7 @@ La distinción entre una máquina y una herramienta se ve más claro las máquin
 
 Con la aplicación la energía, la generación de fuerza es mucho mayor que en los mecanismos más simples. El uso de energia facilita la perforación, tanto de una pared, como de un pozo —tanto de agua, como de petróleo—. Con la aparición de la electrónica, las máquinas pueden automatizarse. La automatización de una máquina es supone que pueda desarrollar su tarea de modo independiente, sin más intervención humana que el encendido y el apagado. Así funcionan las máquinas lavadora o lavaplatos. Con la aparición de la electrónica digital, comienzan a aparecer máquinas con circuitos integrados programados, como las calculadoras. Con el desarrollo electrónico digital adecuado aparecerá el ordenador, que propiamente puede ser considerado la máquina lógica universal.
 
-
+Un ordenador es una gran calculadora programable. Es el ideal de autómata, porque puede hacer trabajo para nosotros. Como máquina lógica puede acometer operaciones matemáticas y lógicas. Gracias a su capacidad
 
 un ordenador máquina universal
 calculadora binaria
@@ -100,6 +100,22 @@ trabajan
 Imagínate que tienes que salir de viaje en diez días y que al ir a buscar tu maleta al trastero, te das cuenta de que tiene un candado puesto. El candado es de combinación de tres cifras. Quizá la recuerdes, quizá no. En el segundo caso, tienes del 000 al 999 y la fuerza bruta.
 
 En informática, no serían dos cosas distintas. Lógicos y lógicas son personas puramente racionales, que entienden por «fuerza bruta» no lo que el resto del mundo: coger un martillo y romper el maldito candado. En este caso, lo que se llama informáticamente un «ataque de fuerza bruta» sería probar todas las combinaciones del 000 al 999. Por supuesto, parando cuando se abriese el candado. En este caso, haría falta sólo un poco de paciencia. También puedes ver que ese tipo de candado es inútil si te quedas sin maleta o cuando dejas de tenerla a la vista.
+
+### Un ejemplo real
+
+Un ejemplo claro de que la capacidad de análisis de la inteligencia mecánica es ciego es la máquina _IBM Watson_. «Alimentada» con millones de datos —incluida la _Wikipedia_ completa en su versión inglesa—, la incluyeron brevemente como participante en _Jeopardy!_ un concurso estadounidense de televisión con preguntas de cultura general.
+
+A pesar de su clara ventaja en las puntuaciones, tuvo un fallo garrafal ante esta sencilla pregunta:
+
+> Su aeropuerto más grande es un héroe de la Segunda Guerra Mundial y su segundo aeropuerto es una batalla de la Segunda Guerra Mundial.
+
+Las dos personas respondieron correctamente Chicago[^chicago-airports], pero la máquina respondió Toronto[^toronto-airports].
+
+[^chicago-airports]: El militar estadounidense es Edward O’Hare y la batalla es la de Midway.
+
+[^toronto-airports]: Desconozco qué persona y qué batalla debería dar esta respuesta por lógicamente válida.
+
+En todo caso, la expectativa de la respuesta era distinta de las posibilidades reales que puede dar una máquina. Por supuesto, puede considerarse un ejemplo de «estupidez artificial». Pero el ejemplo es inocuo, porque no tiene más trascendencia. Detectarlo en una máquina ejecutora —cuando por definición ya es demasiado tarde— es muy difícil que no sea un ejemplo de imbecilidad humana.
 
 <!--
 
@@ -284,6 +300,7 @@ Es curioso, porque manejando cada vez más máquinas (y durante más tiempo), la
 
 No sabemos distinguir la simulación funcional, que puede llegar a ser más efectiva en muchos ámbitos, de la capacidad real.
 
+watson ibm (contestant): america as a continent
 -->
 
 ### Notas
