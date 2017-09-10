@@ -114,9 +114,11 @@ No cabe hablar de inteligencia artificial —o mecánica[^mechanical-intelligenc
 
 [^mechanical-intelligence]: Con «inteligencia mecánica» me refiero a la que presuntamente sería propia de las máquinas. No tiene una segunda connotación. Simplemente, «mecánico» es un adjetivo más común que «maquinal».
 
-El ámbito clásico de inteligencia es una lengua. Sabemos hablar nuestro idioma porque lo entendemos, no por mímica. Lo hemos aprendido no por mímica, sino por comprensión de los significados y usos de las diferentes partes del idioma. La diferencia sería intentar escribir en danés con ayuda de un gran diccionario y una ignorancia completa de ese idioma. Suponiendo que el diccionario fuese perfecto[^perfect-dictionary] y nuestras búsquedas instantáneas, no podríamos nunca decir que sabemos danés. Si no entendemos nada
+El ámbito clásico de inteligencia es una lengua. Sabemos hablar nuestro idioma porque lo entendemos, no por mímica. Lo hemos aprendido no por mímica, sino por comprensión de los significados y usos de las diferentes partes del idioma. La diferencia sería intentar escribir en danés con ayuda de un gran diccionario y una ignorancia completa de ese idioma. Suponiendo que el diccionario fuese perfecto[^perfect-dictionary] y nuestras búsquedas instantáneas, no hablaríamos danés. Haríamos traducción automatizada sin errores. Si no entendemos ni aprendemos nada, aunque todas nuestras frases sean perfectamente correctas, no sabemos nada de danés.
 
 [^perfect-dictionary]: El uso de un diccionario bilingüe es mucho más provechoso cuanto mejor conocemos las dos lenguas de las que tenemos que servirnos.
+
+Un ordenador nunca hablará una lengua, ni propiamente la traducirá. Incluso aunque pueda tener esa funcionalidad perfectamente automatizada. Traducir implica entender al menos una de los dos idiomas implicados. Un ordenador no entiende ninguno de los dos. Aunque pueda manejar palabras y establecer relaciones unívocas, biunívocas o difusas en cierto grado entre expresiones de diferentes idiomas. Poder estructurar gramatical y sintácticamente un idioma a efectos informativos no quiere supone tener una capacidad lingüística real.
 
 ### Cálculo de probabilidades
 
