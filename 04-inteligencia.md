@@ -99,9 +99,15 @@ trabajan
 
 ### Cálculo de probabilidades
 
-Una de las noticias recientes del avance de la inteligencia artificial ha sido que un ordenador ha vencido al número uno de la clasificación mundial de _go_. Ke Jie ostentaba el primer puesto en la clasificación durante dos seguidos. La máquina que le derrotó en tres ocasiones ---_AlphaGo_--- está diseñada para su rendimiento óptimo en este juego.
+Una de las noticias recientes del avance de la inteligencia artificial ha sido que un ordenador ha vencido al número uno de la clasificación mundial de _go_. Ke Jie ostentaba el primer puesto en la clasificación durante dos seguidos. La máquina que le derrotó en tres ocasiones —_AlphaGo_— está diseñada para su rendimiento óptimo en este juego.
 
+Esta victoria es un paso más en la competición entre máquinas y personas. Atrás queda la derrota del campeón mundial de ajedrez —Gary Kasparov— ante la máquina de IBM _Deep Blue_ en el año 1997. _Go_ es un juego mucho más complicado y mucho más difícil de resolver a fuerza de formalización informática. Ambas máquinas no poseen lo que los especialistas denominan capacidad general, sino que están desarrolladas para su juego concreto. Por el tipo de juego, a día de hoy es muy fácil que un sistema informático adecuado pueda ganar con facilidad a cualquier persona. De momento, en el caso del _go_ parece que quede mucho por avanzar, debidos a la mayor complejidad de este juego.
 
+En todo caso, el patrón básico creo que es el mismo.
+
+Cálculo de probabilidades
+
+¿Inteligencia? Intentar ser más rápido que un coche, carece de sentido.
 
 ### El ejemplo de la fuerza bruta
 
