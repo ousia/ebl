@@ -103,11 +103,15 @@ Una de las noticias recientes del avance de la inteligencia artificial ha sido q
 
 Esta victoria es un paso más en la competición entre máquinas y personas. Atrás queda la derrota del campeón mundial de ajedrez —Gary Kasparov— ante la máquina de IBM _Deep Blue_ en el año 1997. _Go_ es un juego mucho más complicado y mucho más difícil de resolver a fuerza de formalización informática. Ambas máquinas no poseen lo que los especialistas denominan capacidad general, sino que están desarrolladas para su juego concreto. Por el tipo de juego, a día de hoy es muy fácil que un sistema informático adecuado pueda ganar con facilidad a cualquier persona. De momento, en el caso del _go_ parece que quede mucho por avanzar, debidos a la mayor complejidad de este juego.
 
-En todo caso, el patrón básico creo que es el mismo.
+En todo caso, el patrón básico creo que es el mismo en ambos casos. No es que los ordenadores se hayan vuelto más inteligentes en estos últimos veinte años. Lo que en realidad ha sucedido es que su capacidad de cálculo ha aumentado. En informática, incluso se habla de una observación a la que se llama la ley de Moore[^moore-law]. Según una interpretación laxa, la velocidad de los procesadores se duplicaría cada dos años. Dejando de lado esta observación, está claro que la capacidad informática de proceso ha aumentado en las dos últimas décadas. Si los ordenadores son grandísimas calculadoras, cada vez lo harán más rápido.
 
-Cálculo de probabilidades
+[^moore-law]: De Gordon Moore, cofundador de [Intel](https://www.intel.com), conocido fabricante de microprocesadores.
 
+Poder calcular
+contar cartas
 ¿Inteligencia? Intentar ser más rápido que un coche, carece de sentido.
+lotería
+
 
 ### El ejemplo de la fuerza bruta
 
