@@ -107,9 +107,9 @@ En todo caso, el patrón básico creo que es el mismo en ambos casos. No es que 
 
 [^moore-law]: De Gordon Moore, cofundador de [Intel](https://www.intel.com), conocido fabricante de microprocesadores.
 
-No seré yo quien dude de las tres victorias de la máquina sobre la persona este año en el juego del _go_. Pero no es por inteligencia, es rapidez de cálculo. Sería como que cualquier tipo de vehículo —nave o aeronave— gane a una persona en carrera de velocidad. Es un patrón de mayor rendimiento, no es un patrón de inteligencia. Es como ganar a la lotería después de haber comprado todos los números. Independientemente de ganar el premio[^lotería-todo], no estarías realmente jugando. Porque no aciertas el número, simplemente haces imposible fallar. Informáticamente, el cálculo es virtualmente gratuito, por eso puedes calcular todas las posibilidades.
+No seré yo quien dude de las tres victorias de la máquina sobre la persona este año en el juego del _go_. Pero no es por inteligencia, es rapidez de cálculo. Sería como que cualquier tipo de vehículo —nave o aeronave— gane a una persona en carrera de velocidad. Es un patrón de mayor rendimiento, no es un patrón de inteligencia. Es como ganar a la lotería después de haber comprado todos los números. Independientemente de ganar el premio[^lottery-all], no estarías realmente jugando. Porque no aciertas el número, simplemente haces imposible fallar. Informáticamente, el cálculo es virtualmente gratuito, por eso puedes calcular todas las posibilidades.
 
-[^lotería-todo]: La lotería compensa a quien la hace porque gana más de lo que paga en premios.
+[^lottery-all]: La lotería compensa a quien la hace porque gana más de lo que paga en premios.
 
 El ejemplo tiene un correlato muy concreto: los juegos de cartas en los casinos. Por lo que parece en cine y series estadounidenses, contar las cartas está prohibido en los casinos. Independientemente de los motivos que sustenten esa decisión[^card-counting], reducir el azar en las apuestas aumenta la tasa de acierto. Sin embargo, sería un acierto más fruto del cálculo que de la coincidencia afortunda en el resultado. Como puro juego[^play-money], es más apropiado la adivinación que el cálculo para el acierto ganador.
 
