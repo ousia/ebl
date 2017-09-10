@@ -92,6 +92,11 @@ informática como programable ¿como saber?-->
 
 Para poder ver la diferencia de realidades, es importante apreciar la diferencia de modos de ser. Una persona —o, en general, cualquier animal— vivimos sintiendo. Las sensaciones parten de una capacidad concreta, pero son parte de la vida. Podemos decir que son actividades, pero dentro de la gran «actividad» que es el propio vivir. Esa actividad omniabarcante es el propio ser vivo, que es también estar vivo. Estar vivo no es un modo entre otros de ser vivo, es sin más _ser viviente_. En cambio, una máquina funciona, opera. Su actividad tiene que ser programada y simular la sensación es una actividad ejecutada en la máquina. En realidad, la ejecución es necesaria porque la simulación tiene que ser expresa. La máquina tiene que recibir y procesar los datos.
 
+Está claro que una máquina puede funcionar como si tuviese sensación de la vista. Lo que en absoluto supone que vea, sino simplemente que puede establecer patrones por los que diferencia colores. Ese reconocimiento mecanizado de colores es el primer paso para replicar maquinalmente la funcionalidad de la vista[^mechanical-sight].
+
+
+[^mechanical-sight]: De momento, parece que la «obviedad» humana de la vista como capacidad general para el reconocimiento de objetos no está replicada en máquinas. Como se muestra en <https://blog.openai.com/robust-adversarial-inputs/>, una máquina no ve como una persona para poder actuar.
+
 <!--
 funcionar
 work
@@ -156,6 +161,9 @@ La máquina de IBM podría considerarse —en palabras del director principal de
 
 <!--
 
+## Asimilación frente a similitud
+
+matematización de la realidad
 
 
 no distinguir entre capacidad real y simulación funcional
@@ -340,6 +348,11 @@ Es curioso, porque manejando cada vez más máquinas (y durante más tiempo), la
 No sabemos distinguir la simulación funcional, que puede llegar a ser más efectiva en muchos ámbitos, de la capacidad real.
 
 watson ibm (contestant): america as a continent
+## La necesidad de reglas
+
+### Una nueva dimensión de fallos
+
 -->
+
 
 ### Notas
