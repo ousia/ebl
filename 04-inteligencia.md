@@ -89,17 +89,19 @@ informática como programable ¿como saber?
 
 ¿Puede sentir una máquina? Alguien podría pretender responder que todavía no, pero que llegará un día en que las máquinas desarrollarán sentimientos. Para evitar la incomprensión, me refiero a sensaciones. Es claro que ya ha llegado el momento de desarrollo sensorial de las máquinas. Por muy sensacionales que puedan ser los avances, las máquinas no tienen sensaciones. No es una cuestión de evolución, una máquina no tiene sensaciones porque no puede tenerlas. Cuestión distinta es que podemos hacer que una máquina funcione como si tuviese sensaciones.
 
-Para poder ver la diferencia de realidades, es importante apreciar la diferencia de modos de ser. Una persona ---o, en general, cualquier animal--- vivimos sintiendo. Las sensaciones parten de una capacidad concreta, pero son parte de la vida. Podemos decir que son actividades, pero dentro de la gran «actividad» que es el propio vivir. Esa actividad omniabarcante es el propio ser vivo, que es también estar vivo. Estar vivo no es un modo entre otros de ser vivo, es sin más _ser viviente_.
+Para poder ver la diferencia de realidades, es importante apreciar la diferencia de modos de ser. Una persona —o, en general, cualquier animal— vivimos sintiendo. Las sensaciones parten de una capacidad concreta, pero son parte de la vida. Podemos decir que son actividades, pero dentro de la gran «actividad» que es el propio vivir. Esa actividad omniabarcante es el propio ser vivo, que es también estar vivo. Estar vivo no es un modo entre otros de ser vivo, es sin más _ser viviente_. En cambio, una máquina funciona, opera. Su actividad tiene que ser programada y simular la sensación es una actividad ejecutada en la máquina. En realidad, la ejecución es necesaria porque la simulación tiene que ser expresa. La máquina tiene que recibir y procesar los datos.
 
+<!--
 funcionar
 work
 trabajan
+-->
 
 ### El ejemplo de la fuerza bruta
 
 Imagínate que tienes que salir de viaje en diez días y que al ir a buscar tu maleta al trastero, te das cuenta de que tiene un candado puesto. El candado es de combinación de tres cifras. Quizá la recuerdes, quizá no. En el segundo caso, tienes del 000 al 999 y la fuerza bruta.
 
-En informática, no serían dos cosas distintas. Lógicos y lógicas son personas puramente racionales, que entienden por «fuerza bruta» no lo que el resto del mundo: coger un martillo y romper el maldito candado. En este caso, lo que se llama informáticamente un «ataque de fuerza bruta» sería probar todas las combinaciones del 000 al 999. Por supuesto, parando cuando se abriese el candado. En este caso, haría falta sólo un poco de paciencia. También puedes ver que ese tipo de candado es inútil si te quedas sin maleta o cuando dejas de tenerla a la vista.
+En informática, no serían dos cosas distintas. Lógicos y lógicas son personas puramente racionales, que entienden por «fuerza bruta» no lo que el resto del mundo: coger un martillo y romper el candado. En este caso, lo que se llama informáticamente un «ataque de fuerza bruta» sería probar todas las combinaciones del 000 al 999. Por supuesto, parando cuando se abriese el candado. En este caso, haría falta sólo un poco de paciencia. También puedes ver que ese tipo de candado es inútil si te quedas sin maleta o cuando dejas de tenerla a la vista.
 
 ### Un ejemplo real de respuesta
 
