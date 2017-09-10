@@ -78,12 +78,13 @@ La distinción entre una máquina y una herramienta se ve más claro las máquin
 
 Con la aplicación la energía, la generación de fuerza es mucho mayor que en los mecanismos más simples. El uso de energia facilita la perforación, tanto de una pared, como de un pozo —tanto de agua, como de petróleo—. Con la aparición de la electrónica, las máquinas pueden automatizarse. La automatización de una máquina es supone que pueda desarrollar su tarea de modo independiente, sin más intervención humana que el encendido y el apagado. Así funcionan las máquinas lavadora o lavaplatos. Con la aparición de la electrónica digital, comienzan a aparecer máquinas con circuitos integrados programados, como las calculadoras. Con el desarrollo electrónico digital adecuado aparecerá el ordenador, que propiamente puede ser considerado la máquina lógica universal.
 
-Un ordenador es una gran calculadora programable. Es el ideal de autómata, porque puede hacer trabajo para nosotros. Como máquina lógica puede acometer operaciones matemáticas y lógicas. Gracias a su capacidad
+Un ordenador es una gran calculadora programable. Es el ideal de autómata, porque puede hacer trabajo para nosotros. Como máquina lógica puede acometer operaciones matemáticas y lógicas. Gracias a su capacidad de proceso, es extraordinariamente rápida. Cada vez lo será más, los cálculos que hoy llevan días, se reducirán a segundos en un tiempo. Ese avance permite que el tiempo permita operaciones informáticas que antes rechazadas por su imposibilidad de proceso. Cada vez los ordenadores pueden hacer más cosas y nosotros podemos hacer más cosas con ellas. La llamada «inteligencia artificial» sería la culminación de esas posibilidades.
 
+<!--
 un ordenador máquina universal
 calculadora binaria
 
-informática como programable ¿como saber?
+informática como programable ¿como saber?-->
 
 ## ¿Máquinas inteligentes?
 
