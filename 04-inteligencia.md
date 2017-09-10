@@ -185,7 +185,7 @@ A modo de ilustración, creo que la confusión para la indistinción de lo propi
 
 [^binary-code]: Cita tomada del texto de Eduardo Punset en _El cerebro sofisticado_, en <https://www.eduardpunset.es/23361/general/el-cerebro-sofisticado>.
 
-El idioma más hablado en el planeta es el chino mandarín, con bastante diferencia del inglés. El sistema binario es un código y no puede ser un idioma. Es un código con instrucciones, órdenes de diferentes formas y a diferentes niveles. Si no entendemos esa diferencia, el problema más grave es que no entenderemos por qué estamos asimilando la inteligencia humana con la capacidad informática de cálculo lógico. No podremos saber qué es comprable y que no puede serlo por ser absolutamente diverso.
+El idioma más hablado en el planeta es el chino mandarín, con bastante diferencia del inglés. El sistema binario es un código y no puede ser un idioma. Es un código con instrucciones, órdenes de diferentes formas y a diferentes niveles. Si no entendemos esa diferencia, el problema más grave es que no entenderemos por qué estamos asimilando la inteligencia humana con la capacidad informática de cálculo lógico. No podremos saber qué es comprable y que no puede serlo por ser absolutamente diverso. Así será muy difícil que podamos llegar a entender ninguna similitud o ninguna diferencia.
 
 
 <!--
