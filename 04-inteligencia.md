@@ -97,6 +97,12 @@ work
 trabajan
 -->
 
+### Cálculo de probabilidades
+
+Una de las noticias recientes del avance de la inteligencia artificial ha sido que un ordenador ha vencido al número uno de la clasificación mundial de _go_. Ke Jie ostentaba el primer puesto en la clasificación durante dos seguidos. La máquina que le derrotó en tres ocasiones ---_AlphaGo_--- está diseñada para su rendimiento óptimo en este juego.
+
+
+
 ### El ejemplo de la fuerza bruta
 
 Imagínate que tienes que salir de viaje en diez días y que al ir a buscar tu maleta al trastero, te das cuenta de que tiene un candado puesto. El candado es de combinación de tres cifras. Quizá la recuerdes, quizá no. En el segundo caso, tienes del 000 al 999 y la fuerza bruta.
