@@ -176,12 +176,19 @@ La máquina de IBM podría considerarse —en palabras del director principal de
 
 [^natural-learning]: “We build artificial intelligence that understands the world the way people do”, recogido en <https://www.elementalcognition.com/>.
 
-<!--
 
 ## Asimilación frente a similitud
 
+A modo de ilustración, creo que la confusión para la indistinción de lo propio de la inteligencia humana respecto a la artificial puede mostrarse en esta frase:
+
+> Cree la mayoría que el lenguaje más común es el inglés o el chino, cuando hoy, en plena era de la información y la comunicación, el más universal de todos es el sistema binario[^binary-code].
+
+[^binary-code]: Cita tomada del texto de Eduardo Punset en _El cerebro sofisticado_, en <https://www.eduardpunset.es/23361/general/el-cerebro-sofisticado>.
+
 matematización de la realidad
 
+
+<!--
 
 no distinguir entre capacidad real y simulación funcional
 
@@ -217,7 +224,6 @@ robots nanoscópicos
 
 [_El cerebro sofisticado_](https://www.eduardpunset.es/23361/general/el-cerebro-sofisticado):
 
-> Cree la mayoría que el lenguaje más común es el inglés o el chino, cuando hoy, en plena era de la información y la comunicación, el más universal de todos es el sistema binario.
 ##
 
 etimología
