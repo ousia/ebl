@@ -107,11 +107,15 @@ En todo caso, el patrón básico creo que es el mismo en ambos casos. No es que 
 
 [^moore-law]: De Gordon Moore, cofundador de [Intel](https://www.intel.com), conocido fabricante de microprocesadores.
 
-Poder calcular
-contar cartas
-¿Inteligencia? Intentar ser más rápido que un coche, carece de sentido.
-lotería
+No seré yo quien dude de las tres victorias de la máquina sobre la persona este año en el juego del _go_. Pero no es por inteligencia, es rapidez de cálculo. Sería como que cualquier tipo de vehículo —nave o aeronave— gane a una persona en carrera de velocidad. Es un patrón de mayor rendimiento, no es un patrón de inteligencia. Es como ganar a la lotería después de haber comprado todos los números. Independientemente de ganar el premio[^lotería-todo], no estarías realmente jugando. Porque no aciertas el número, simplemente haces imposible fallar. Informáticamente, el cálculo es virtualmente gratuito, por eso puedes calcular todas las posibilidades.
 
+[^lotería-todo]: La lotería compensa a quien la hace porque gana más de lo que paga en premios.
+
+El ejemplo tiene un correlato muy concreto: los juegos de cartas en los casinos. Por lo que parece en cine y series estadounidenses, contar las cartas está prohibido en los casinos. Independientemente de los motivos que sustenten esa decisión[^card-counting], reducir el azar en las apuestas aumenta la tasa de acierto. Sin embargo, sería un acierto más fruto del cálculo que de la coincidencia afortunda en el resultado. Como puro juego[^play-money], es más apropiado la adivinación que el cálculo para el acierto ganador.
+
+[^card-counting]: Parece que no es ilegal mientras nadie se ayude de aparatos o personas, sino que la cuenta sea puramente mental. En la práctica, los casinos tratan de expulsar a quienes creen que están contando las cartas. Aunque probablemente la legalidad de esa expulsión sea dudosa.
+
+[^play-money]: Imposible o más difícil de reconocer cuando existe una inversión económica de por medio.
 
 ### El ejemplo de la fuerza bruta
 
