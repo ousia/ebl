@@ -117,13 +117,17 @@ El ejemplo tiene un correlato muy concreto: los juegos de cartas en los casinos.
 
 [^play-money]: Imposible o más difícil de reconocer cuando existe una inversión económica de por medio.
 
-### El ejemplo de la fuerza bruta
+La inteligencia artificial juega así. Es un cálculo de posibilidades y probabilidades, con la más absoluta incomprensión respecto a la «información» tratada. En su nivel más básico, puede advertirse que para saber sumar sólo hay que conocer las reglas de la adicción. No hay que entender nada realmente, sólo saber aplicar la regla.
+
+Ganar por velocidad, igual que por fuerza bruta —como veremos ahora— es una victoria. Aunque quizá no sea una competición real, porque puede que no haya competencia. No existe cuando es imposible que una de las partes pierda, o cuando no está jugando. La comparación carece de sentido, porque se trata de realidades distintas.
+
+### La fuerza bruta
 
 Imagínate que tienes que salir de viaje en diez días y que al ir a buscar tu maleta al trastero, te das cuenta de que tiene un candado puesto. El candado es de combinación de tres cifras. Quizá la recuerdes, quizá no. En el segundo caso, tienes del 000 al 999 y la fuerza bruta.
 
 En informática, no serían dos cosas distintas. Lógicos y lógicas son personas puramente racionales, que entienden por «fuerza bruta» no lo que el resto del mundo: coger un martillo y romper el candado. En este caso, lo que se llama informáticamente un «ataque de fuerza bruta» sería probar todas las combinaciones del 000 al 999. Por supuesto, parando cuando se abriese el candado. En este caso, haría falta sólo un poco de paciencia. También puedes ver que ese tipo de candado es inútil si te quedas sin maleta o cuando dejas de tenerla a la vista.
 
-### Un ejemplo real de respuesta
+### ¿Idiocia artificial?
 
 Un ejemplo claro de que la capacidad de análisis de la inteligencia mecánica es ciego es la máquina _IBM Watson_. «Alimentada» con millones de datos —incluida la _Wikipedia_ completa en su versión inglesa—, la incluyeron brevemente como participante en _Jeopardy!_ un concurso estadounidense de televisión con preguntas de cultura general.
 
