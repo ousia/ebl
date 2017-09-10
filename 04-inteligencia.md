@@ -104,6 +104,20 @@ work
 trabajan
 -->
 
+### ¿Una definición acertada?
+
+Para poder hablar de inteligencia artificial, así como de la acción autónoma autónoma consiguiente, es necesario describir al menos qué sea inteligencia. La inteligencia general se definiría por la capacidad de procesar información. Creo que incluso como descripción es demasiado ambigua. Mucho me temo que también está demasiado enfocada a lo que hace un ordenador. La misma palabra «informática» referida a la automatización del proceso de la información puede mostrar el segundo defecto al que aludo.
+
+El proceso de información es también una descripción demasiado general para denominarla inteligencia. El ejemplo básico sería el tacto. Por el tacto percibimos el calor. Habitualmente, si acercamos la mano a una olla metálica con líquido hirviendo, percibimos el calor. La reacción inmediata es separar la parte en contacto. Pero no es propia de personas adultas, cualquier animal con tacto hace lo mismo. Como para que esa reacción pueda tener lugar es necesario procesar la información térmica, ¿eso es inteligencia? Creo que no, pero lo voy a mostrar con el mismo ejemplo en otro ámbito. Mi hervidor eléctrico procesa la información de cuando llega a 100℃, se desconecta. ¿Es inteligencia? ¿Lo sería si lo hiciera un ordenador?
+
+No cabe hablar de inteligencia artificial —o mecánica[^mechanical-intelligence]— porque la inteligencia supone la comprensión de aquello sobre lo que se habla. Somos inteligentes porque entendemos o podemos llegar a entender. Por mucho que queramos o deseemos, una máquina sólo puede llegar a operar como si entendiese. Podrá simular conducta inteligente por mímica con la acción humana, pero la simulación tiene sus límites.
+
+[^mechanical-intelligence]: Con «inteligencia mecánica» me refiero a la que presuntamente sería propia de las máquinas. No tiene una segunda connotación. Simplemente, «mecánico» es un adjetivo más común que «maquinal».
+
+El ámbito clásico de inteligencia es una lengua. Sabemos hablar nuestro idioma porque lo entendemos, no por mímica. Lo hemos aprendido no por mímica, sino por comprensión de los significados y usos de las diferentes partes del idioma. La diferencia sería intentar escribir en danés con ayuda de un gran diccionario y una ignorancia completa de ese idioma. Suponiendo que el diccionario fuese perfecto[^perfect-dictionary] y nuestras búsquedas instantáneas, no podríamos nunca decir que sabemos danés. Si no entendemos nada
+
+[^perfect-dictionary]: El uso de un diccionario bilingüe es mucho más provechoso cuanto mejor conocemos las dos lenguas de las que tenemos que servirnos.
+
 ### Cálculo de probabilidades
 
 Una de las noticias recientes del avance de la inteligencia artificial ha sido que un ordenador ha vencido al número uno de la clasificación mundial de _go_. Ke Jie ostentaba el primer puesto en la clasificación durante dos seguidos. La máquina que le derrotó en tres ocasiones —_AlphaGo_— está diseñada para su rendimiento óptimo en este juego.
