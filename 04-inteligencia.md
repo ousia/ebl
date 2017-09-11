@@ -380,5 +380,10 @@ watson ibm (contestant): america as a continent
 
 -->
 
+## Antropomorfismo y una realidad probable
+
+En quizá demasiadas novelas de ciencia–ficción, la inteligencia artificial acaba tomando conciencia y sometiendo a los humanos. En algunas explicaciones de expertos sobre inteligencia artificial, parece que a la especie humana le espera el destino de los simios comparados con esa inteligencia superior. No sé por qué, me parece que en ambos casos estamos dando un salto en el vacío. O estamos proyectando características humanas sobre realidades que son máquinas. Lo explico para ambos casos.
+
+
 
 ### Notas
