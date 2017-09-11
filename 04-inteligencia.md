@@ -380,10 +380,17 @@ watson ibm (contestant): america as a continent
 
 -->
 
-## Antropomorfismo y una realidad probable
+## Antropomorfismo y futuro
 
 En quizá demasiadas novelas de ciencia–ficción, la inteligencia artificial acaba tomando conciencia y sometiendo a los humanos. En algunas explicaciones de expertos sobre inteligencia artificial, parece que a la especie humana le espera el destino de los simios comparados con esa inteligencia superior. No sé por qué, me parece que en ambos casos estamos dando un salto en el vacío. O estamos proyectando características humanas sobre realidades que son máquinas. Lo explico para ambos casos.
 
+El apocalipsis de la especie humana causado por las máquinas supone la mala voluntad de éstas. Si bien las máquinas podrán llegar a causar daño en la parte en que no están sometidas a control, es imposible que una máquina quiera o desee. En teoría, si existe vida en otros planetas, esos seres vivos —por definición, extraterrestres— podrían intentar conquistarnos. Para eso, tendrían que manifestarse antes. Una máquina no puede llegar a desear, porque no puede llegar a tomar conciencia. Para eso, una máquina tendría que entender las órdenes que ejecuta. Al igual que suponer una voluntad mecánica, es antropomorfismo pensar que una máquina entiende las órdenes que puede ejecutar.
+
+De todas formas, es cierto que la ausencia de malevolencia no garantiza la inexistencia de males. Es el mismo caso que el clima: no tiene mala voluntad, pero causa desgracias. A las máquinas podemos aplicarle lo que se dice de las armas: las carga el diablo y las dispara un idiota. Tiene sentido advertir que debemos diseñar una «inteligencia artificial» con la que podamos convivir. Primero, porque no se nos vaya de las manos, cuestión que es mucho más fácil de lo que parece. Si entregamos todo a la gran mecanización, una consecuencia no contemplada previamente puede ser con facilidad una catástrofe para la humanidad.
+
+No sólo me refiero a un fallo de concepción —de programación— que nos ponga en jaque. No es muy difícil que suceda si pretendemos que las máquinas puedan hacernos vivir una vida más humana que las propias personas. Una máquina descontrolada es fácil que acabe causando males. Si entregásemos toda nuestra existencia, o casi toda, a un sistema mecánico, ya nos habríamos sometido. En realidad, lo que viniese después sería una consencuencia temporal, pero nada más.
+
+En el antromorfismo que subyace a lo que en definitiva es un entusiasmo desmedido por la informática, proyectamos sobre las máquinas lo que en el fondo no deja de ser la creación de personas mecánicas. Con mayores o menores capacidades, sólo son grandes calculadoras lógicas. Y por lo que nos interesa al resto, una vida perfectamente calculable y calculada no es una vida ni muy inteligente ni realmente humana.
 
 
 ### Notas
