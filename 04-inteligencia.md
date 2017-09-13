@@ -187,6 +187,28 @@ A modo de ilustración, creo que la confusión para la indistinción de lo propi
 
 El idioma más hablado en el planeta es el chino mandarín, con bastante diferencia del inglés. El sistema binario es un código y no puede ser un idioma. Es un código con instrucciones, órdenes de diferentes formas y a diferentes niveles. Si no entendemos esa diferencia, el problema más grave es que no entenderemos por qué estamos asimilando la inteligencia humana con la capacidad informática de cálculo lógico. No podremos saber qué es comprable y que no puede serlo por ser absolutamente diverso. Así será muy difícil que podamos llegar a entender ninguna similitud o ninguna diferencia.
 
+### La cuestión de la memoria
+
+La memoria es una realidad humana que aplicamos también a la informática. Dicho de una manera muy básica, en un ordenador lo que no es proceso —o cálculo— es memoria. Por supuesto, existe una memoria de trabajo y una memoria de almacenamiento. En realidad, la diferencia entre ambas estriba en mayor velocidad de acceso y permanencia de los datos sin que funcione el sistema. Como explicación de la inteligencia artificial, toda memoria es memoria de almacenamiento, ya que en ella se recibe lo ya procesado.
+
+La diferencia fundamental entre la memoria humana y la memoria de almacenamiento es la realidad de recuerdo y olvido. Una memoria electrónica no necesita recordar ni olvida, accede al dato o lo borra. La memoria humana es esencial para el aprendizaje, pero no es una memoria mecánica —ésa sería pura memorística—. Las personas necesitamos repetir y relacionar lo que pretendemos recordar para aprenderlo y poderlo memorizar. En una memoria digital sólo hace falta almacenar, no cabe comprensión. En la memoria humana, la falta de comprensión condena al olvido irremediablemente, que puede ser más o menos rápido.
+
+Es absurdo tratar de competir en términos de rendimiento entre memoria humana y memoria digital. Sobre todo, porque en el segundo caso hablamos de «memoria» en sentido absolutamente lato. Sin recuerdo ni olvido, sólo queda el tiempo de acceso al dato. En eso consiste una memoria mecánica. Las personas necesitamos una memoria con sentido, no procesamos datos. Necesitamos el sentido de nuestros pensamientos, del aprendizaje y de aquello que recordamos. Por supuesto, no es todo memoria, pero sin memoria no puede darse inteligencia humana.
+
+La intransferibilidad es la diferencia esencial entre memoria y mero almacenamiento del dato. La comprensión es personal, nadie puede entender por nosotros. Nos pueden ayudar, pero no pueden sustituirnos o darlo ya hecho. De hecho, la educación debe ser con cada persona, porque el aprendizaje no se da en serie. No hay una pastilla de conocimientos (ni una conexión a un dispositivo electrónico). De otro modo, los libros serían sabios. Por poder recitar sin entender, aunque pueda procesar, no existe inteligencia. Aunque la velocidad de proceso sea virtualmente infinita.
+
+### Inconmesurabilidad
+
+comparar no son
+
+leer o procesar
+
+soluciones predeterminadas
+
+
+## Mimetizar y mecanizar la vida
+
+
 
 <!--
 
