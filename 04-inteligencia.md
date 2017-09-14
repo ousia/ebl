@@ -28,7 +28,7 @@ En la entrevista se habla de los robots microscópicos[^microscopio] —_nanobot
 
 * Los robots no nos vigilarían, por supuesto. Ni nos causarían daño alguno si lo ordenasen terceras personas.
 
-    No hay que chuparse el dedo. Sin creer en conspiraciones paranoincas, me temo que tanto Julian Assange, como especialmente Edward Snowden, nos muestran que la realidad cotidiana y prosaica es justo lo contarior.
+    No hay que chuparse el dedo. Sin creer en conspiraciones paranoincas, me temo que tanto Julian Assange, como especialmente Edward Snowden, nos muestran que la realidad cotidiana y prosaica es justo lo contario.
 
 * Los robots funcionarían siempre bien. Uno de los ejemplos aducidos es que matasen las células cancerígenas en cuanto hubiesen mutado.
 
@@ -38,7 +38,7 @@ En la entrevista se habla de los robots microscópicos[^microscopio] —_nanobot
 
 Sin embargo, lo más relevante es el momento presente. Hacer que ciegos vean o que sordos oigan, son dos ejemplos de lo que se anuncia como nuevas vías futuras. Es un gran logro, que no hay que poner en duda. Lo que no está ya tan claras son sus implicaciones. Porque la pregunta básica es cuál es el logro de esos implantes.
 
-Hacer que sienta quien no puede sentir es un logro ambiguo. Me explico, han hecho sentir a quienes de hecho no podían. No han conseguido que sientan quienes no pueden de ningún modo hacerlo. Por eso, el logro crear visión o audición, es restaurar una capacidad que estaba comprometida orgánicamente. Sólo ven y oyen ciertos animales. Si se hubiese creado la sensación, añadiríamos esa posibilidad —o la facultad— a seres que no la pueden tener.
+Hacer que sienta quien no puede sentir es un logro ambiguo. Me explico, han hecho sentir a quienes de hecho no podían. No han conseguido que sientan quienes no pueden de ningún modo hacerlo. Por eso, el logro crear visión o audición supone restaurar una capacidad que estaba comprometida orgánicamente. Sólo ven y oyen ciertos animales. Si se hubiese creado la sensación, añadiríamos esa posibilidad —o la facultad— a seres que no la pueden tener.
 
 La precisión es decisiva en este punto. La sensación es orgánica, porque necesitamos de una estructura corporal determinada para sentir. No por casualidad, ὄργανον en griego es instrumento. No sienten los órganos sensoriales, ni tampoco el cerebro, sino el animal —o la persona, en este caso—. Que el ojo sea necesario para la visión no quiere decir que el ojo vea. Incluso aunque un ojo enfermo nos pueda impedir ver. Podemos ayudar a los órganos con gafas o audífonos. Incluso podemos hacer estimulación cerebral, que aunque tenga como resultado una sensación. Sin embargo, eso o supone que el cerebro oiga o vea.
 
@@ -90,9 +90,9 @@ informática como programable ¿como saber?-->
 
 ¿Puede sentir una máquina? Alguien podría pretender responder que todavía no, pero que llegará un día en que las máquinas desarrollarán sentimientos. Para evitar la incomprensión, me refiero a sensaciones. Es claro que ya ha llegado el momento de desarrollo sensorial de las máquinas. Por muy sensacionales que puedan ser los avances, las máquinas no tienen sensaciones. No es una cuestión de evolución, una máquina no tiene sensaciones porque no puede tenerlas. Cuestión distinta es que podemos hacer que una máquina funcione como si tuviese sensaciones.
 
-Para poder ver la diferencia de realidades, es importante apreciar la diferencia de modos de ser. Una persona —o, en general, cualquier animal— vivimos sintiendo. Las sensaciones parten de una capacidad concreta, pero son parte de la vida. Podemos decir que son actividades, pero dentro de la gran «actividad» que es el propio vivir. Esa actividad omniabarcante es el propio ser vivo, que es también estar vivo. Estar vivo no es un modo entre otros de ser vivo, es sin más _ser viviente_. En cambio, una máquina funciona, opera. Su actividad tiene que ser programada y simular la sensación es una actividad ejecutada en la máquina. En realidad, la ejecución es necesaria porque la simulación tiene que ser expresa. La máquina tiene que recibir y procesar los datos.
+Para poder ver la diferencia de realidades, es importante apreciar la diferencia de modos de ser. Una persona —o, en general, cualquier animal— vive sintiendo. Las sensaciones parten de una capacidad concreta, pero son parte de la vida. Podemos decir que son actividades, pero dentro de la gran «actividad» que es el propio vivir. Esa actividad omniabarcante es el propio ser vivo, que es también estar vivo. Estar vivo no es un modo entre otros de ser vivo, es sin más _ser viviente_. En cambio, una máquina funciona, opera. Su actividad tiene que ser programada y simular la sensación es una actividad ejecutada en la máquina. En realidad, la ejecución es necesaria porque la simulación tiene que ser expresa. La máquina tiene que recibir y procesar los datos para replicar la funcionalidad de la sensación.
 
-Está claro que una máquina puede funcionar como si tuviese sensación de la vista. Lo que en absoluto supone que vea, sino simplemente que puede establecer patrones por los que diferencia colores. Ese reconocimiento mecanizado de colores sería el primer paso para replicar maquinalmente la funcionalidad de la vista[^mechanical-sight]. Esa capacidad es decisiva y el fundamento de que pueda haber conducción completa de vehículos totalmente automatizada. Independientemente de que se puedan aplicar reglas posteriores para la resolución de conflictos[^bdr-kommission], es necesaria la vista. O lo que es más difícil, la réplica funcional de la capacidad huamana vista y el reconocimiento de objetos. No es imposible lograrlo, pero mientras no lo hayamos logrado, todo error de proceso será un nefasto _daño colateral_. No será un fallo o una equivocación —por definición, son personales—, sino un error de proceso.
+Está claro que una máquina puede funcionar como si tuviese sensación de la vista. Lo que en absoluto supone que vea, sino simplemente que puede establecer patrones por los que diferencia colores. Ese reconocimiento mecanizado de colores sería el primer paso para replicar maquinalmente la funcionalidad de la vista[^mechanical-sight]. Esa capacidad es decisiva y el fundamento de que pueda haber conducción completa de vehículos totalmente automatizada. Independientemente de que se puedan aplicar reglas posteriores para la resolución de conflictos[^bdr-kommission], es necesaria la vista. O lo que es más difícil, la conducción automatizada exige la réplica funcional de la capacidad huamana vista y del reconocimiento de objetos. No es imposible lograrlo, pero mientras no lo hayamos logrado, todo error de proceso será un nefasto _daño colateral_. No será un fallo o una equivocación —por definición, son personales—, sino un error de proceso.
 
 [^mechanical-sight]: De momento, parece que la «obviedad» humana de la vista como capacidad general para el reconocimiento de objetos no está replicada en máquinas. Como se muestra en <https://blog.openai.com/robust-adversarial-inputs/>, una máquina no ve como una persona para poder actuar.
 
@@ -114,11 +114,13 @@ No cabe hablar de inteligencia artificial —o mecánica[^mechanical-intelligenc
 
 [^mechanical-intelligence]: Con «inteligencia mecánica» me refiero a la que presuntamente sería propia de las máquinas. No tiene una segunda connotación. Simplemente, «mecánico» es un adjetivo más común que «maquinal».
 
-El ámbito clásico de inteligencia es una lengua. Sabemos hablar nuestro idioma porque lo entendemos, no por mímica. Lo hemos aprendido no por mímica, sino por comprensión de los significados y usos de las diferentes partes del idioma. La diferencia sería intentar escribir en danés con ayuda de un gran diccionario y una ignorancia completa de ese idioma. Suponiendo que el diccionario fuese perfecto[^perfect-dictionary] y nuestras búsquedas instantáneas, no hablaríamos danés. Haríamos traducción automatizada sin errores. Si no entendemos ni aprendemos nada, aunque todas nuestras frases sean perfectamente correctas, no sabemos nada de danés.
+El ámbito clásico de inteligencia es una lengua. Sabemos hablar nuestro idioma porque lo entendemos, no por mímica. Lo hemos aprendido no por mímica, sino por comprensión de los significados y usos de las diferentes partes del idioma. La diferencia sería intentar escribir en danés con ayuda de un gran diccionario y una ignorancia completa de ese idioma. Suponiendo que el diccionario fuese perfecto[^perfect-dictionary] y nuestras búsquedas instantáneas, no hablaríamos danés. Haríamos traducción automatizada sin errores. Si no entendemos ni aprendemos nada, aunque todas nuestras frases sean perfectamente correctas, no sabemos nada de danés[^automatic-translation].
 
 [^perfect-dictionary]: El uso de un diccionario bilingüe es mucho más provechoso cuanto mejor conocemos las dos lenguas de las que tenemos que servirnos.
 
-Un ordenador nunca hablará una lengua, ni propiamente la traducirá. Incluso aunque pueda tener esa funcionalidad perfectamente automatizada. Traducir implica entender al menos una de los dos idiomas implicados. Un ordenador no entiende ninguno de los dos. Aunque pueda manejar palabras y establecer relaciones unívocas, biunívocas o difusas en cierto grado entre expresiones de diferentes idiomas. Poder estructurar gramatical y sintácticamente un idioma a efectos informativos no quiere supone tener una capacidad lingüística real.
+[^automatic-translation]: Una máquina siempre traduciría correctamente sin haber aprendido nada. En cambio, es imposible que una persona llegase a hacer traducciones sin aprender absolutamente nada del idioma. La máquina nunca entenderá, una persona es imposible que no entienda nada. Ser inteligente implica no poder actuar de manera totalmente mecánica.
+
+Un ordenador nunca hablará una lengua, ni propiamente la traducirá. Incluso aunque pueda tener esa funcionalidad perfectamente automatizada. Traducir implica entender al menos una de los dos idiomas implicados. Un ordenador no entiende ninguno de los dos. Aunque pueda manejar palabras y establecer relaciones unívocas, biunívocas o difusas en cierto grado entre expresiones de diferentes idiomas. Poder estructurar gramatical y sintácticamente un idioma a efectos informativos no supone tener una capacidad lingüística real.
 
 ### Cálculo de probabilidades
 
@@ -126,15 +128,15 @@ Una de las noticias recientes del avance de la inteligencia artificial ha sido q
 
 Esta victoria es un paso más en la competición entre máquinas y personas. Atrás queda la derrota del campeón mundial de ajedrez —Gary Kasparov— ante la máquina de IBM _Deep Blue_ en el año 1997. _Go_ es un juego mucho más complicado y mucho más difícil de resolver a fuerza de formalización informática. Ambas máquinas no poseen lo que los especialistas denominan capacidad general, sino que están desarrolladas para su juego concreto. Por el tipo de juego, a día de hoy es muy fácil que un sistema informático adecuado pueda ganar con facilidad a cualquier persona. De momento, en el caso del _go_ parece que quede mucho por avanzar, debidos a la mayor complejidad de este juego.
 
-En todo caso, el patrón básico creo que es el mismo en ambos casos. No es que los ordenadores se hayan vuelto más inteligentes en estos últimos veinte años. Lo que en realidad ha sucedido es que su capacidad de cálculo ha aumentado. En informática, incluso se habla de una observación a la que se llama la ley de Moore[^moore-law]. Según una interpretación laxa, la velocidad de los procesadores se duplicaría cada dos años. Dejando de lado esta observación, está claro que la capacidad informática de proceso ha aumentado en las dos últimas décadas. Si los ordenadores son grandísimas calculadoras, cada vez lo harán más rápido.
+En todo caso, el patrón básico creo que es el mismo en ambos casos. No es que los ordenadores se hayan vuelto más inteligentes en estos últimos veinte años. Lo que en realidad ha sucedido es que su capacidad de cálculo ha aumentado. En informática, incluso se habla de una observación a la que se llama la ley de Moore[^moore-law]. Según una interpretación laxa, la velocidad de los procesadores se duplicaría cada dos años. Dejando de lado esta observación, está claro que la capacidad informática de proceso ha aumentado en las dos últimas décadas. Si los ordenadores son grandísimas calculadoras, serán cada vez más rápidas.
 
-[^moore-law]: De Gordon Moore, cofundador de [Intel](https://www.intel.com), conocido fabricante de microprocesadores.
+[^moore-law]: De Gordon Moore, cofundador de [_Intel_](https://www.intel.com), conocido fabricante de microprocesadores.
 
 No seré yo quien dude de las tres victorias de la máquina sobre la persona este año en el juego del _go_. Pero no es por inteligencia, es rapidez de cálculo. Sería como que cualquier tipo de vehículo —nave o aeronave— gane a una persona en carrera de velocidad. Es un patrón de mayor rendimiento, no es un patrón de inteligencia. Es como ganar a la lotería después de haber comprado todos los números. Independientemente de ganar el premio[^lottery-all], no estarías realmente jugando. Porque no aciertas el número, simplemente haces imposible fallar. Informáticamente, el cálculo es virtualmente gratuito, por eso puedes calcular todas las posibilidades.
 
 [^lottery-all]: La lotería compensa a quien la hace porque gana más de lo que paga en premios.
 
-El ejemplo tiene un correlato muy concreto: los juegos de cartas en los casinos. Por lo que parece en cine y series estadounidenses, contar las cartas está prohibido en los casinos. Independientemente de los motivos que sustenten esa decisión[^card-counting], reducir el azar en las apuestas aumenta la tasa de acierto. Sin embargo, sería un acierto más fruto del cálculo que de la coincidencia afortunda en el resultado. Como puro juego[^play-money], es más apropiado la adivinación que el cálculo para el acierto ganador.
+El ejemplo tiene un correlato muy concreto: los juegos de cartas en los casinos. Por lo que parece en cine y series estadounidenses, contar las cartas está prohibido en los casinos. Independientemente de los motivos que sustenten esa decisión[^card-counting], reducir el azar en las apuestas aumenta la tasa de acierto. Sin embargo, ese acierto sería más fruto del cálculo que de la coincidencia afortunda en el resultado. Como puro juego[^play-money], es más apropiado la adivinación que el cálculo para el acierto ganador.
 
 [^card-counting]: Parece que no es ilegal mientras nadie se ayude de aparatos o personas, sino que la cuenta sea puramente mental.
 
@@ -189,7 +191,7 @@ El idioma más hablado en el planeta es el chino mandarín, con bastante diferen
 
 ### La cuestión de la memoria
 
-La memoria es una realidad humana que aplicamos también a la informática. Dicho de una manera muy básica, en un ordenador lo que no es proceso —o cálculo— es memoria. Por supuesto, existe una memoria de trabajo y una memoria de almacenamiento. En realidad, la diferencia entre ambas estriba en mayor velocidad de acceso y permanencia de los datos sin que funcione el sistema. Como explicación de la inteligencia artificial, toda memoria es memoria de almacenamiento, ya que en ella se recibe lo ya procesado.
+La memoria es una realidad humana que aplicamos también a la informática. Dicho de una manera muy básica, lo que en un ordenador no es proceso —o cálculo—, es memoria. Por supuesto, existe una memoria de trabajo y una memoria de almacenamiento. En realidad, la diferencia entre ambas estriba en mayor velocidad de acceso y permanencia de los datos sin que funcione el sistema. Como explicación de la inteligencia artificial, toda memoria es memoria de almacenamiento, ya que en ella se recibe lo ya procesado.
 
 La diferencia fundamental entre la memoria humana y la memoria de almacenamiento es la realidad de recuerdo y olvido. Una memoria electrónica no necesita recordar ni olvida, accede al dato o lo borra. La memoria humana es esencial para el aprendizaje, pero no es una memoria mecánica —ésa sería pura memorística—. Las personas necesitamos repetir y relacionar lo que pretendemos recordar para aprenderlo y poderlo memorizar. En una memoria digital sólo hace falta almacenar, no cabe comprensión. En la memoria humana, la falta de comprensión condena al olvido irremediablemente, que puede ser más o menos rápido.
 
@@ -197,32 +199,32 @@ Es absurdo tratar de competir en términos de rendimiento entre memoria humana y
 
 La intransferibilidad es la diferencia esencial entre memoria y mero almacenamiento de datos. La comprensión es personal, nadie puede entender por nosotros. Nos pueden ayudar, pero no pueden sustituirnos o darlo ya hecho. De hecho, la educación debe ser con cada persona, porque el aprendizaje no se da en serie. No hay una pastilla de conocimientos (ni una conexión a un dispositivo electrónico). De otro modo, los libros serían sabios. Por poder recitar sin entender, aunque pueda procesar, no existe inteligencia. Aunque la velocidad de proceso sea virtualmente infinita.
 
-<!--
+
 ### Inconmesurabilidad
 
-Curiosamente comparar funcionalidades
+Un organismo vivo y una máquina son realidades distintas. Un cuerpo no es un autómata aunque sólo sea porque la biología no es mera física y química. La chispa de la vida es lo que constituye un cuerpo. Entre la «energía biológica» a la que llamamos vida y la energía eléctrica se muestra la inconmensurabilidad de ambas. Podemos generar electricidad y suministrarla a aparatos que la consuman. Aunque parezca una obviedad, no podemos generar vida y suministrarla a cuerpos. Sólo cabe que engendremos cuerpos vivos, esto es, seres vivos. La muerte es una situación final e inapelable.
 
-comparar no son
+La inteligencia es una forma de vida. Por supuesto, la capacidad de ejecución de operaciones de un ordenador es infinitamente más rápida que la de cualquier persona. Por eso es una máquina. Esas máquinas serán cada vez más rápidas, por la propia evolución de la tecnología. Sin embargo, esa mayor velocidad de proceso de datos es absolutamente diversa con la inteligencia humana. Dicho claramente, ser infinitamente más rápido no es inteligencia. Puede mostrarse en un ámbito de actividad que hasta ahora habíammos reservado a la humanidad —alfabetizada—: la lectura.
 
-más capaz no es siquiera inteligente
+Quienes trabajan en inteligencia artificial anuncian que está cercano el momento en que las máquinas «lean» todo lo que se ha escrito en la historia de la humanidad. Está claro que ningún ser humano puede plantearse esa tarea con casi ningún idioma de la humanidad. Sin embargo, lo poco o mucho que una persona lea, no será mera información que acumule en su memoria. Sencillamente ampliará su inteligencia. Para la inteligencia artificial, sólo serán más datos. “Another brick(s) in the wall”, podría haber cantado Pink Floid. Digitalizando todos los textos de la historia de la humanidad, pasaremos de tener una biblioteca física a una virtual. Si apuramos mucho, un _corpus_ lingüístico informatizado. Ambas cuestiones pueden ser muy prácticas, sin duda. En el fondo, para que las personas podamos leer esas obras de la producción literaria mundial.
 
-leer o procesar
+El procesado de información como inteligencia puede resultar una consideración vacía. Sobre todo, no sirve para comparar lo que no es comparable. De otro modo, por analogía descubriríamos algo sorprendente sobre la función básica de la vida. No es otra que la alimentación. Si la alimentación —o la digestión, si se prefiere— es es el procesado de alimentos, ¿debemos considerar digestión o alimentación el procesado de almientos por parte de máquinas? La respuesta obvia es no. Del mismo modo, el procesado de información por parte de una máquina no supone inteligencia real alguna.
 
-comprensión lectora
-
-pensamiento es proceso de información
-
-digestión es proceso de alimento
-
-soluciones predeterminadas
+<!--
 
 
 ## Mimetizar y mecanizar la vida
 
+Si la inteligencia artificial pretende
 
--->
 
-<!--
+soluciones predeterminadas
+
+black box
+
+ejemplo comunicación
+
+falla como máquina
 
 matematización de la realidad
 
