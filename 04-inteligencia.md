@@ -195,13 +195,24 @@ La diferencia fundamental entre la memoria humana y la memoria de almacenamiento
 
 Es absurdo tratar de competir en términos de rendimiento entre memoria humana y memoria digital. Sobre todo, porque en el segundo caso hablamos de «memoria» en sentido absolutamente lato. Sin recuerdo ni olvido, sólo queda el tiempo de acceso al dato. En eso consiste una memoria mecánica. Las personas necesitamos una memoria con sentido, no procesamos datos. Necesitamos el sentido de nuestros pensamientos, del aprendizaje y de aquello que recordamos. Por supuesto, no es todo memoria, pero sin memoria no puede darse inteligencia humana.
 
-La intransferibilidad es la diferencia esencial entre memoria y mero almacenamiento del dato. La comprensión es personal, nadie puede entender por nosotros. Nos pueden ayudar, pero no pueden sustituirnos o darlo ya hecho. De hecho, la educación debe ser con cada persona, porque el aprendizaje no se da en serie. No hay una pastilla de conocimientos (ni una conexión a un dispositivo electrónico). De otro modo, los libros serían sabios. Por poder recitar sin entender, aunque pueda procesar, no existe inteligencia. Aunque la velocidad de proceso sea virtualmente infinita.
+La intransferibilidad es la diferencia esencial entre memoria y mero almacenamiento de datos. La comprensión es personal, nadie puede entender por nosotros. Nos pueden ayudar, pero no pueden sustituirnos o darlo ya hecho. De hecho, la educación debe ser con cada persona, porque el aprendizaje no se da en serie. No hay una pastilla de conocimientos (ni una conexión a un dispositivo electrónico). De otro modo, los libros serían sabios. Por poder recitar sin entender, aunque pueda procesar, no existe inteligencia. Aunque la velocidad de proceso sea virtualmente infinita.
 
+<!--
 ### Inconmesurabilidad
+
+Curiosamente comparar funcionalidades
 
 comparar no son
 
+más capaz no es siquiera inteligente
+
 leer o procesar
+
+comprensión lectora
+
+pensamiento es proceso de información
+
+digestión es proceso de alimento
 
 soluciones predeterminadas
 
@@ -209,6 +220,7 @@ soluciones predeterminadas
 ## Mimetizar y mecanizar la vida
 
 
+-->
 
 <!--
 
