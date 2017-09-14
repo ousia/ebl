@@ -20,7 +20,7 @@ Creo que la entrevista mezcla tres cuestiones diferentes:
 
 De hecho, la inteligencia ni se trata en la entrevista, se da por supuesta como una obviedad. Y con el debido respeto —no puedo reprimir el comentario—, también con una ingenuidad estrictamente infinita.
 
-En la entrevista se habla de los robots microscópicos[^microscopio] —_nanobots_— que antes de cincuenta años, vagarían por nuestro cuerpo curándolo y manteniéndolo sano. Debe ser que soy muy poco crédulo, pero habría dos cuestiones.
+En la entrevista se habla de los robots microscópicos[^microscopio] —en inglés _nanobots_— que antes de cincuenta años, vagarían por nuestro cuerpo curándolo y manteniéndolo sano. Debe ser que soy muy poco crédulo, pero habría dos cuestiones.
 
 [^microscopio]: Son microscópicos, no «nanoscópicos». Fundamentalmente porque el «nanoscopio» no existe.
 
@@ -210,25 +210,24 @@ Quienes trabajan en inteligencia artificial anuncian que está cercano el moment
 
 El procesado de información como inteligencia puede resultar una consideración vacía. Sobre todo, no sirve para comparar lo que no es comparable. De otro modo, por analogía descubriríamos algo sorprendente sobre la función básica de la vida. No es otra que la alimentación. Si la alimentación —o la digestión, si se prefiere— es es el procesado de alimentos, ¿debemos considerar digestión o alimentación el procesado de almientos por parte de máquinas? La respuesta obvia es no. Del mismo modo, el procesado de información por parte de una máquina no supone inteligencia real alguna.
 
-<!--
-
 
 ## Mimetizar y mecanizar la vida
 
-Si la inteligencia artificial pretende replicar las funciones de la inteligencia humana, la única manera en que puede lograrlo es por mímica.
+Si la inteligencia artificial pretende replicar las funciones de la inteligencia humana, la única manera en que puede lograrlo es por mímica. Una máquina llegará a actuar de modo racional imitando acciones humanas. Analizando datos de la conducta humana, «aprenderá» a ver los principios de acciones humanas. Lo que realmente conseguirá es hacer patrones estadísticos de probabilidad. No aprenderá, dependerá del proceso que haga de la información que se le suministre.
 
-soluciones predeterminadas
+El gran problema de ese planteamiento de «aprendizaje» de la inteligencia artificial es que a día de hoy no sabemos cómo las máquinas procesan la información que reciben. Si ya en la actualidad el proceso de información de la inteligencia artificial es opaco, será más difícil de entender con máquinas más potentes. Cuando estén desarrolladas, podrán servir para aquellas situaciones en las que puedan resolverse por puro cálculo automatizado o por cálculo de probabilidades de los datos suministrados.
 
-black box
+Sin embargo, no podemos esperar que la tecnología solucione los problemas humanos. No podemos mecanizar la vida. Aunque por desgracia lo hagamos en muchas cosas. La selección de personal no es necesariamente más objetiva porque la haga una máquina. Las resoluciones judiciales deben tomarlas personas, nunca máquinas. Existe un principio jurídico que reza _summum ius, summa iniuria_ —el máximo derecho es la injusticia suprema—. No podemos delegar los problemas de decisión auténticamente humana a máquinas. Es ingenuo pensar que una máquina será justa. Es inhumano someter las vidas humanas a ejecución de algoritmos mecánicos, o decidir sobre ellas según mayores o menores probabilidades.
 
-ejemplo comunicación
+Esas decisiones maquinales tienen un problema añadido: por definición son irresponsables. De una mala decisión personal —tomada por una persona—, puede exigirse responsabilidad a quien la haya tomado. A una máquina no puede atribuírsele responsabilidad por un cálculo. Sólo podría achacarse el defecto a la máquina en un cálculo erróneo. Excepto mal funcionamiento físico, una máquina no falla. La equivocación o el error son privilegios reservados a los seres humanos.
 
-falla como máquina
+Una máquina no debe tener nunca la última palabra sobre decisiones humanas. De otro modo, acabaremos totalmente tiranizados por las máquinas, o por el uso que hacemos de ellas. Aunque una máquina tenga mayor velocidad de cálculo, carece de facultades propias de las personas. Excepto para lo puramente mecánico, no podemos pretender que las máquinas regulen la vida humana. O nos convertiremos en siervos de nuestras propias creaciones.
 
-decisiones
+### Desarrollo lógico
 
-nadie tiene responsabilidad de un cálculo, sólo de un error en esa operación
--->
+Sobre el desarrollo de la inteligencia artificial y la posibilidad de que se nos vaya de las manos, existe un proyecto que tuvo que acabar desconectando los ordenadores. En un proyecto de _Facebook_, ordenadores conectados en red pasaron de comunicarse en inglés a hacerlo una jerga incomprensible para los programadores. El desarrollo de esa jerga fue un proceso que llevaron los propios ordenadores. Las personas no entendían ese nuevo código y el motivo de la investigación era mejorar la interacción con personas. Eso llevó a la desactivación del programa.
+
+No es que las máquinas sean malignas. No entedemos cómo procesan la información y de ese modo es muy difícil evaluar si cumplen como máquinas. Porque tenemos que esperar a los resultados. En una lavadora, es sencillo ver si funciona. Incluso otra máquina puede comprobar el funcionamiento. Si la capacidad de actuación está indeterminada, su funcionamiento es muchísimo más complejo. Por supuesto, la evaluación también.
 
 ### El problema de las reglas
 
