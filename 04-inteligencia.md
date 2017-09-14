@@ -215,7 +215,7 @@ El procesado de información como inteligencia puede resultar una consideración
 
 ## Mimetizar y mecanizar la vida
 
-Si la inteligencia artificial pretende replicar las funciones de la inteligencia humana,
+Si la inteligencia artificial pretende replicar las funciones de la inteligencia humana, la única manera en que puede lograrlo es por mímica.
 
 soluciones predeterminadas
 
@@ -225,6 +225,9 @@ ejemplo comunicación
 
 falla como máquina
 
+decisiones
+
+nadie tiene responsabilidad de un cálculo, sólo de un error en esa operación
 -->
 
 ### El problema de las reglas
@@ -251,8 +254,13 @@ Una de las autoridades mundiales en inteligencia artificial, Stuart Russell[^ai-
 
 1. Las máquinas deben aprender mediante la observación de (todos los) seres humanos.
 
-Curiosamente, me temo que
-Normas de comportamiento, leyes o funciones de programación.
+Curiosamente, me temo que el discurso de los valores de un investigador en inteligencia artificial son mucho más abstractos que los del escritor de ciencia–ficción. Russell supone una inteligencia con comprensión abstracta, que en el fondo es una persona mecánica. No tendría inteligencia simulada, sino inteligencia real.
+
+De todas formas, el problema básico es de comprensión. Las leyes o normas son para personas, rigen nuestro comportamiento. Programar una norma es algo completamente distinto. Porque no formulamos algoritmos o funciones de comportamiento en un lenguaje lógicamente puro. El caso más claro es que no hay mejor modo de incumplir una norma que seguirla literalmente.
+
+Cumplir una orden es algo distinto de su mera ejecución. Para poder cumplirla sin ejecutarla mecánicamente hay que entenderla. Eso supone una lengua común, que es tanto un mundo, como un sentido compartidos. Un niño pequeño o un abogado contrario a nuestros intereses pueden enseñarnos cómo una norma puede cumplirse realizando justo lo que pretende prohibir.
+
+El problema con las máquinas es una pregunta. Debido a que no somos puras calculadoras lógicas y no cabe un pensamiento únicamente formal, ¿cómo esperamos que máquinas actúen según lo que significamos en las normas que les damos? Al menos en el caso de los principiantes, muchos errores de programación vienen por no ser estrictamente lógicos en nuestros planteamientos. ¿Cómo pretendemos razonar del mismo modo que calcula un ordenador a una velocidad infinitamente superior?
 
 <!--
 matematización de la realidad
