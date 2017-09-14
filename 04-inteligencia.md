@@ -200,7 +200,7 @@ Es absurdo tratar de competir en términos de rendimiento entre memoria humana y
 La intransferibilidad es la diferencia esencial entre memoria y mero almacenamiento de datos. La comprensión es personal, nadie puede entender por nosotros. Nos pueden ayudar, pero no pueden sustituirnos o darlo ya hecho. De hecho, la educación debe ser con cada persona, porque el aprendizaje no se da en serie. No hay una pastilla de conocimientos (ni una conexión a un dispositivo electrónico). De otro modo, los libros serían sabios. Por poder recitar sin entender, aunque pueda procesar, no existe inteligencia. Aunque la velocidad de proceso sea virtualmente infinita.
 
 
-### Inconmesurabilidad
+### Inconmensurabilidad
 
 Un organismo vivo y una máquina son realidades distintas. Un cuerpo no es un autómata aunque sólo sea porque la biología no es mera física y química. La chispa de la vida es lo que constituye un cuerpo. Entre la «energía biológica» a la que llamamos vida y la energía eléctrica se muestra la inconmensurabilidad de ambas. Podemos generar electricidad y suministrarla a aparatos que la consuman. Aunque parezca una obviedad, no podemos generar vida y suministrarla a cuerpos. Sólo cabe que engendremos cuerpos vivos, esto es, seres vivos. La muerte es una situación final e inapelable.
 
@@ -215,8 +215,7 @@ El procesado de información como inteligencia puede resultar una consideración
 
 ## Mimetizar y mecanizar la vida
 
-Si la inteligencia artificial pretende
-
+Si la inteligencia artificial pretende replicar las funciones de la inteligencia humana,
 
 soluciones predeterminadas
 
@@ -226,6 +225,36 @@ ejemplo comunicación
 
 falla como máquina
 
+-->
+
+### El problema de las reglas
+
+Una de las consecuencias de que la inteligencia artificial sea una capacidad indeterminada de cálculo lógico es que obra ciega. Carece de fines para actuar, aunque de manera progresiva ejectuará acciones que condicionen la vida humana. No serán sólo análisis y propuestas de decisión, como en el fondo es la ordenación de resultados de búsqueda o el cálculo de un riesgo de crédito bancario. Dotando de esa capacidad de cálculo a robots, sus acciones no sólo serían puramente lógicas.
+
+En este punto se plantea lo que la ciencia–ficción ya había vaticiando, la existencia de unas leyes fundamentales de la robótica. Las más famosas son las tres leyes de la robótica propuestas por Isaac Asimov:
+
+1. Un robot no hará daño a un ser humano o, por omisión, permitir que un ser humano sufra daño.
+
+1. Un robot debe hacer o realizar las órdenes dadas por los seres humanos, excepto si estas órdenes entrasen en conflicto con la primera ley.
+
+1. Un robot debe proteger su propia existencia en la medida en que esta protección no entre en conflicto con la primera o la segunda ley.​
+
+Una de las autoridades mundiales en inteligencia artificial, Stuart Russell[^ai-book], habla tres principios[^russell-laws] que resumo de la siguiente manera:
+
+[^ai-book]: Es coautor, junto a Peter Norvig de _Artificial Intelligence: A Modern Approach_. Parece ser _el_ manual sobre inteligencia artificial.
+
+[^russell-laws]: Tomados de su conferencia _Three Principles for Creating Safer AI_, disponible en <https://www.ted.com/talks/stuart_russell_how_ai_might_make_us_better_people>. La transcripción —supongo automatizada— se encuentra en <https://www.ted.com/talks/stuart_russell_how_ai_might_make_us_better_people/transcript>.
+
+1. Los robots deben actuar de modo totalmente altruista, para realizar valores humanos.
+
+1. Los valores humanos deben ser objetivos no totalmente definidos.
+
+1. Las máquinas deben aprender mediante la observación de (todos los) seres humanos.
+
+Curiosamente, me temo que
+Normas de comportamiento, leyes o funciones de programación.
+
+<!--
 matematización de la realidad
 
 
